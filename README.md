@@ -29,10 +29,26 @@ CVPR完整论文列表：
 
 <a name="2.图像编辑"></a>
 # 2.图像编辑(Image Editing)
-### PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models
-- Paper：[https://arxiv.org/abs/2303.17546](https://arxiv.org/abs/2303.17546)
-- Code：[https://github.com/Picsart-AI-Research/PAIR-Diffusion](https://github.com/Picsart-AI-Research/PAIR-Diffusion)
 
+### ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations
+- Paper: https://arxiv.org/abs/2312.04655
+- Code: https://github.com/eclipse-t2i/eclipse-inference
+
+### InstanceDiffusion: Instance-level Control for Image Generation
+- Paper: https://arxiv.org/abs/2402.03290
+- Code: https://github.com/frank-xwang/InstanceDiffusion
+  
+### Instruct-Imagen: Image Generation with Multi-modal Instruction
+- Paper: https://arxiv.org/abs/2401.01952
+
+### PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models
+- Paper: https://arxiv.org/abs/2303.17546
+- Code: https://github.com/Picsart-AI-Research/PAIR-Diffusion
+
+### Residual Denoising Diffusion Models
+- Paper: https://arxiv.org/abs/2308.13712
+- Code: https://github.com/nachifur/RDDM
+  
 <a name="3.视频生成"></a>
 # 3.视频生成(Video Generation/Image Synthesis)
 
@@ -47,9 +63,10 @@ CVPR完整论文列表：
 <font color=red size=5>持续更新~</font>
 
 # 参考
-
+[CVPR 2024 论文和开源项目合集(Papers with Code)](https://github.com/amusi/CVPR2024-Papers-with-Code)
 
 # 相关整理
-- [Awesome-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2021-CVPR2020-Low-Level-Vision/blob/master/CVPR2020.md)
-- [Awesome-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2020-Low-Level-Vision)
+- [Awesome-AIGC-Research-Groups](https://github.com/Kobaayyy/Awesome-AIGC-Research-Groups)
 - [Awesome-Low-Level-Vision-Research-Groups](https://github.com/Kobaayyy/Awesome-Low-Level-Vision-Research-Groups)
+- [Awesome-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision)
+- [Awesome-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2020-Low-Level-Vision)
