@@ -41,6 +41,10 @@ CVPR完整论文列表：
 ### Instruct-Imagen: Image Generation with Multi-modal Instruction
 - Paper: https://arxiv.org/abs/2401.01952
 
+### MACE: Mass Concept Erasure in Diffusion Models
+- Paper: 
+- Code: https://github.com/Shilin-LU/MACE
+  
 ### PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models
 - Paper: https://arxiv.org/abs/2303.17546
 - Code: https://github.com/Picsart-AI-Research/PAIR-Diffusion
