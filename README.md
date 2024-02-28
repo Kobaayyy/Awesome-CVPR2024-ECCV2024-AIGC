@@ -27,10 +27,6 @@ CVPR完整论文列表：
 
 <a name="1.图像生成"></a>
 # 1.图像生成(Image Generation/Image Synthesis)
-
-<a name="2.图像编辑"></a>
-# 2.图像编辑(Image Editing)
-
 ### ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations
 - Paper: https://arxiv.org/abs/2312.04655
 - Code: https://github.com/eclipse-t2i/eclipse-inference
@@ -53,6 +49,11 @@ CVPR完整论文列表：
 ### Residual Denoising Diffusion Models
 - Paper: https://arxiv.org/abs/2308.13712
 - Code: https://github.com/nachifur/RDDM
+
+<a name="2.图像编辑"></a>
+# 2.图像编辑(Image Editing)
+
+
   
 <a name="3.视频生成"></a>
 # 3.视频生成(Video Generation/Image Synthesis)
