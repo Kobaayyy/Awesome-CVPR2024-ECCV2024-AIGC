@@ -43,8 +43,11 @@ CVPR完整论文列表：
 ### Instruct-Imagen: Image Generation with Multi-modal Instruction
 - Paper: https://arxiv.org/abs/2401.01952
 ### MACE: Mass Concept Erasure in Diffusion Models
-- Paper: 
+- Paper: https://arxiv.org/abs/2402.05408
 - Code: https://github.com/Shilin-LU/MACE
+### MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis
+- Paper: 
+- Code: https://github.com/limuloo/MIGC
 ### PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding  
 - Paper: https://arxiv.org/abs/2312.04461
 - Code: https://github.com/TencentARC/PhotoMaker
