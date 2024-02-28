@@ -110,6 +110,10 @@ CVPR完整论文列表：
 ## MoMask: Generative Masked Modeling of 3D Human Motions
 - Paper: https://arxiv.org/abs/2312.00063
 - Code: https://github.com/EricGuo5513/momask-codes
+### RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D.
+- Paper: https://arxiv.org/abs/2311.16918
+- Code: https://github.com/modelscope/richdreamer
+
   
 <a name="6.3D编辑"></a>
 # 6.3D编辑(3D Editing)
