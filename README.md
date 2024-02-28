@@ -22,7 +22,8 @@ CVPR完整论文列表：
 - [2.图像编辑（Image Editing)](#2.图像编辑)
 - [3.视频生成(Video Generation/Image Synthesis)](#3.视频生成)
 - [4.视频编辑(Video Editing)](#4.视频编辑)
-- [5.其他多任务(Others)](#5.其他)
+- [5.3D生成(3D Generation/3D Synthesis)](#5.3D生成)
+- [6.其他多任务(Others)](#6.其他)
 
 <a name="1.图像生成"></a>
 # 1.图像生成(Image Generation/Image Synthesis)
@@ -55,15 +56,27 @@ CVPR完整论文列表：
   
 <a name="3.视频生成"></a>
 # 3.视频生成(Video Generation/Image Synthesis)
-
+### Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners
+- Paper: https://arxiv.org/abs/2308.13712
+- Code: https://github.com/yzxing87/Seeing-and-Hearing
 <a name="4.视频编辑"></a>
 # 4.视频编辑(Video Editing)
 
+<a name="5.3D生成"></a>
+# 5.3D生成(3D Generation/3D Synthesis)
+### EscherNet: A Generative Model for Scalable View Synthesis
+- Paper: https://arxiv.org/abs/2402.03908
+- Code: https://github.com/kxhit/EscherNet
+  
+<a name="6.其他"></a>
+# 6.其他多任务(Others)
+### InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks
+- Paper: https://arxiv.org/abs/2312.14238
+- Code: https://github.com/OpenGVLab/InternVL
 
-<a name="5.其他"></a>
-# 5.其他多任务(Others)
-
-
+### Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models
+- Paper: https://arxiv.org/abs/2311.06783
+- Code: https://github.com/Q-Future/Q-Instruct
 <font color=red size=5>持续更新~</font>
 
 # 参考
