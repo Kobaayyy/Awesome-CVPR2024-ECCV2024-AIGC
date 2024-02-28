@@ -75,6 +75,9 @@ CVPR完整论文列表：
   
 <a name="3.视频生成"></a>
 # 3.视频生成(Video Generation/Image Synthesis)
+### A Recipe for Scaling up Text-to-Video Generation with Text-free Videos
+- Paper: https://arxiv.org/abs/2312.15770
+- Code: https://tf-t2v.github.io/
 ### DisCo: Disentangled Control for Realistic Human Dance Generation
 - Paper: https://arxiv.org/abs/2307.00040
 - Code: https://github.com/Wangt-CN/DisCo
