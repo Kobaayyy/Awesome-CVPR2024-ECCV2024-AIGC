@@ -45,7 +45,9 @@ CVPR完整论文列表：
 ### MACE: Mass Concept Erasure in Diffusion Models
 - Paper: 
 - Code: https://github.com/Shilin-LU/MACE
-  
+### PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding  
+- Paper: https://arxiv.org/abs/2312.04461
+- Code: https://github.com/TencentARC/PhotoMaker
 
 
 ### Residual Denoising Diffusion Models
@@ -82,6 +84,9 @@ CVPR完整论文列表：
 ### SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis
 - Paper: https://arxiv.org/abs/2311.17590
 - Code: https://github.com/ZiqiaoPeng/SyncTalk
+### VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models
+- Paper: https://arxiv.org/abs/2401.09047
+- Code: https://github.com/AILab-CVC/VideoCrafter
 <a name="4.视频编辑"></a>
 # 4.视频编辑(Video Editing)
 
@@ -90,6 +95,9 @@ CVPR完整论文列表：
 ### CityDreamer: Compositional Generative Model of Unbounded 3D Cities
 - Paper: https://arxiv.org/abs/2309.00610
 - Code: https://github.com/kxhit/EscherNet
+### DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models
+- Paper: https://arxiv.org/abs/2304.00916
+- Code: https://github.com/yukangcao/DreamAvatar
 ### EscherNet: A Generative Model for Scalable View Synthesis
 - Paper: https://arxiv.org/abs/2402.03908
 - Code: https://github.com/hzxie/city-dreamer
@@ -108,12 +116,18 @@ CVPR完整论文列表：
   
 <a name="7.其他"></a>
 # 7.其他多任务(Others)
+### EvalCrafter: Benchmarking and Evaluating Large Video Generation Models
+- Paper: https://arxiv.org/abs/2310.11440
+- Code: https://github.com/evalcrafter/EvalCrafter
 ### InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks
 - Paper: https://arxiv.org/abs/2312.14238
 - Code: https://github.com/OpenGVLab/InternVL
 ### Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models
 - Paper: https://arxiv.org/abs/2311.06783
 - Code: https://github.com/Q-Future/Q-Instruct
+### SEED-Bench: Benchmarking Multimodal Large Language Models
+- Paper: https://arxiv.org/abs/2311.17092
+- Code: https://github.com/AILab-CVC/SEED-Bench
 ### ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts
 - Paper: https://arxiv.org/abs/2312.00784
 - Code: https://github.com/mu-cai/ViP-LLaVA
