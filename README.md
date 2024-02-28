@@ -52,7 +52,9 @@ CVPR完整论文列表：
 
 <a name="2.图像编辑"></a>
 # 2.图像编辑(Image Editing)
-
+### PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models
+- Paper: https://arxiv.org/abs/2312.13964
+- Code: https://github.com/open-mmlab/PIA
 
   
 <a name="3.视频生成"></a>
