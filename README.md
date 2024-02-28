@@ -59,6 +59,12 @@ CVPR完整论文列表：
   
 <a name="3.视频生成"></a>
 # 3.视频生成(Video Generation/Image Synthesis)
+### DisCo: Disentangled Control for Realistic Human Dance Generation
+- Paper: https://arxiv.org/abs/2307.00040
+- Code: https://github.com/Wangt-CN/DisCo
+### Make Your Dream A Vlog
+- Paper: https://arxiv.org/abs/2401.09414
+- Code: https://github.com/Vchitect/Vlogger
 ### Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners
 - Paper: https://arxiv.org/abs/2308.13712
 - Code: https://github.com/yzxing87/Seeing-and-Hearing
