@@ -62,6 +62,9 @@ CVPR完整论文列表：
 ### Edit One for All: Interactive Batch Image Editing
 - Paper: https://arxiv.org/abs/2401.10219
 - Code: https://github.com/thaoshibe/edit-one-for-all
+### Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation
+- Paper: https://arxiv.org/abs/2312.10113
+- Code: https://github.com/guoqincode/Focus-on-Your-Instruction
 ### PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models
 - Paper: https://arxiv.org/abs/2303.17546
 - Code: https://github.com/Picsart-AI-Research/PAIR-Diffusion
