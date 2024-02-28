@@ -23,7 +23,8 @@ CVPR完整论文列表：
 - [3.视频生成(Video Generation/Image Synthesis)](#3.视频生成)
 - [4.视频编辑(Video Editing)](#4.视频编辑)
 - [5.3D生成(3D Generation/3D Synthesis)](#5.3D生成)
-- [6.其他多任务(Others)](#6.其他)
+- [6.3D生成(3D Generation/3D Synthesis)](#6.3D编辑)
+- [7.其他多任务(Others)](#7.其他)
 
 <a name="1.图像生成"></a>
 # 1.图像生成(Image Generation/Image Synthesis)
@@ -76,9 +77,18 @@ CVPR完整论文列表：
 ### EscherNet: A Generative Model for Scalable View Synthesis
 - Paper: https://arxiv.org/abs/2402.03908
 - Code: https://github.com/kxhit/EscherNet
+## MoMask: Generative Masked Modeling of 3D Human Motions
+- Paper: https://arxiv.org/abs/2312.00063
+- Code: https://github.com/EricGuo5513/momask-codes
   
-<a name="6.其他"></a>
-# 6.其他多任务(Others)
+<a name="6.3D编辑"></a>
+# 6.3D编辑(3D Editing)
+### GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting
+- Paper: https://arxiv.org/abs/2311.14521
+- Code: https://github.com/buaacyw/GaussianEditor
+  
+<a name="7.其他"></a>
+# 7.其他多任务(Others)
 ### InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks
 - Paper: https://arxiv.org/abs/2312.14238
 - Code: https://github.com/OpenGVLab/InternVL
