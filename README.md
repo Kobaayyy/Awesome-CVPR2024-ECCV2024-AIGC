@@ -54,6 +54,9 @@ CVPR完整论文列表：
 
 <a name="2.图像编辑"></a>
 # 2.图像编辑(Image Editing)
+### Edit One for All: Interactive Batch Image Editing
+- Paper: https://arxiv.org/abs/2401.10219
+- Code: https://github.com/thaoshibe/edit-one-for-all
 ### PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models
 - Paper: https://arxiv.org/abs/2303.17546
 - Code: https://github.com/Picsart-AI-Research/PAIR-Diffusion
