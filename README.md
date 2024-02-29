@@ -51,10 +51,12 @@ CVPR完整论文列表：
 ### PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding  
 - Paper: https://arxiv.org/abs/2312.04461
 - Code: https://github.com/TencentARC/PhotoMaker
-
+### StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On
+- Paper: https://arxiv.org/abs/2312.04461
+- Code: https://github.com/rlawjdghek/StableVITON
 
 ### Residual Denoising Diffusion Models
-- Paper: https://arxiv.org/abs/2308.13712
+- Paper: https://arxiv.org/abs/2312.01725
 - Code: https://github.com/nachifur/RDDM
 
 <a name="2.图像编辑"></a>
