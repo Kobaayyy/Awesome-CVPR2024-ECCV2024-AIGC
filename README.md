@@ -116,7 +116,7 @@ CVPR完整论文列表：
 ### GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models
 - Paper: https://arxiv.org/abs/2310.08529
 - Code: https://github.com/hustvl/GaussianDreamer
-## MoMask: Generative Masked Modeling of 3D Human Motions
+### MoMask: Generative Masked Modeling of 3D Human Motions
 - Paper: https://arxiv.org/abs/2312.00063
 - Code: https://github.com/EricGuo5513/momask-codes
 ### RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D.
