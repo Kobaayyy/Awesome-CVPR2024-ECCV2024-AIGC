@@ -123,6 +123,9 @@ CVPR完整论文列表：
   
 <a name="4.视频编辑"></a>
 # 4.视频编辑(Video Editing)
+### CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
+- Paper: https://arxiv.org/abs/2308.07926
+- Code: https://github.com/qiuyu96/CoDeF
 ### VidToMe: Video Token Merging for Zero-Shot Video Editing
 - Paper: https://arxiv.org/abs/2312.10656
 - Code: https://github.com/lixirui142/VidToMe
