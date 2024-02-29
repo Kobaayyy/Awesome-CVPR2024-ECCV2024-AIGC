@@ -48,6 +48,10 @@ CVPR完整论文列表：
 - Code: https://github.com/frank-xwang/InstanceDiffusion
 ### Instruct-Imagen: Image Generation with Multi-modal Instruction
 - Paper: https://arxiv.org/abs/2401.01952
+- Code: 
+### Let us democratise high-resolution generation
+- Paper: https://arxiv.org/abs/2401.01952
+- Code: https://github.com/PRIS-CV/DemoFusion
 ### MACE: Mass Concept Erasure in Diffusion Models
 - Paper: https://arxiv.org/abs/2402.05408
 - Code: https://github.com/Shilin-LU/MACE
