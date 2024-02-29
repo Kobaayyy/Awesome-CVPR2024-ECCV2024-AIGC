@@ -49,6 +49,9 @@ CVPR完整论文列表：
 ### Instruct-Imagen: Image Generation with Multi-modal Instruction
 - Paper: https://arxiv.org/abs/2401.01952
 - Code: 
+### Inversion-Free Image Editing with Natural Language
+- Paper: https://arxiv.org/abs/2312.04965
+- Code: https://github.com/sled-group/InfEdit
 ### Let us democratise high-resolution generation
 - Paper: https://arxiv.org/abs/2401.01952
 - Code: https://github.com/PRIS-CV/DemoFusion
