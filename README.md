@@ -29,8 +29,11 @@ CVPR完整论文列表：
 <a name="1.图像生成"></a>
 # 1.图像生成(Image Generation/Image Synthesis)
 ### CapHuman: Capture Your Moments in Parallel Universes
-- Paper: https://arxiv.org/abs/2402.00627
+- Paper: https://arxiv.org/abs/2402.18078
 - Code: https://github.com/VamosC/CapHuman
+### Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis
+- Paper: https://arxiv.org/abs/2402.00627
+- Code: https://github.com/YanzuoLu/CFLD
 ### ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations
 - Paper: https://arxiv.org/abs/2312.04655
 - Code: https://github.com/eclipse-t2i/eclipse-inference
