@@ -132,6 +132,9 @@ CVPR完整论文列表：
 ### DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models
 - Paper: https://arxiv.org/abs/2304.00916
 - Code: https://github.com/yukangcao/DreamAvatar
+### DreamComposer: Controllable 3D Object Generation via Multi-View Conditions
+- Paper: https://arxiv.org/abs/2312.03611
+- Code: https://github.com/yhyang-myron/DreamComposer
 ### EscherNet: A Generative Model for Scalable View Synthesis
 - Paper: https://arxiv.org/abs/2402.03908
 - Code: https://github.com/hzxie/city-dreamer
