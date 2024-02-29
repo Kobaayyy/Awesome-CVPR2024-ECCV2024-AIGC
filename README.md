@@ -34,6 +34,9 @@ CVPR完整论文列表：
 ### Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis
 - Paper: https://arxiv.org/abs/2402.00627
 - Code: https://github.com/YanzuoLu/CFLD
+### DeepCache: Accelerating Diffusion Models for Free
+- Paper: https://arxiv.org/abs/2312.00858
+- Code: https://github.com/horseee/DeepCache
 ### ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations
 - Paper: https://arxiv.org/abs/2312.04655
 - Code: https://github.com/eclipse-t2i/eclipse-inference
@@ -66,6 +69,9 @@ CVPR完整论文列表：
 ### Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing
 - Paper: https://arxiv.org/abs/2311.18608
 - Code: https://github.com/HyelinNAM/ContrastiveDenoisingScore
+### DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing
+- Paper: https://arxiv.org/abs/2312.07409
+- Code: https://github.com/Kevin-thu/DiffMorpher
 ### Edit One for All: Interactive Batch Image Editing
 - Paper: https://arxiv.org/abs/2401.10219
 - Code: https://github.com/thaoshibe/edit-one-for-all
@@ -106,9 +112,15 @@ CVPR完整论文列表：
 ### VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models
 - Paper: https://arxiv.org/abs/2401.09047
 - Code: https://github.com/AILab-CVC/VideoCrafter
+
+  
 <a name="4.视频编辑"></a>
 # 4.视频编辑(Video Editing)
+### VidToMe: Video Token Merging for Zero-Shot Video Editing
+- Paper: https://arxiv.org/abs/2312.10656
+- Code: https://github.com/lixirui142/VidToMe
 
+  
 <a name="5.3D生成"></a>
 # 5.3D生成(3D Generation/3D Synthesis)
 ### CityDreamer: Compositional Generative Model of Unbounded 3D Cities
@@ -129,6 +141,12 @@ CVPR完整论文列表：
 ### MoMask: Generative Masked Modeling of 3D Human Motions
 - Paper: https://arxiv.org/abs/2312.00063
 - Code: https://github.com/EricGuo5513/momask-codes
+### EpiDiff: Enhancing Multi-View Synthesis via Localized Epipolar-Constrained Diffusion
+- Paper: https://arxiv.org/abs/2312.06725
+- Code: https://github.com/huanngzh/EpiDiff
+### PEGASUS: Personalized Generative 3D Avatars with Composable Attributes
+- Paper: https://arxiv.org/abs/2402.10636
+- Code: https://github.com/snuvclab/pegasus
 ### RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D.
 - Paper: https://arxiv.org/abs/2311.16918
 - Code: https://github.com/modelscope/richdreamer
