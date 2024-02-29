@@ -72,6 +72,9 @@ CVPR完整论文列表：
 ### PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models
 - Paper: https://arxiv.org/abs/2303.17546
 - Code: https://github.com/Picsart-AI-Research/PAIR-Diffusion
+### Person in Place: Generating Associative Skeleton-Guidance Maps for Human-Object Interaction Image Editing
+- Paper: https://arxiv.org/abs/2303.17546
+- Code: https://github.com/YangChangHee/CVPR2024_Person-In-Place_RELEASE?tab=readme-ov-file
 ### PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models
 - Paper: https://arxiv.org/abs/2312.13964
 - Code: https://github.com/open-mmlab/PIA
