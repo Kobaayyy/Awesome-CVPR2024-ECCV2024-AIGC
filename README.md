@@ -59,6 +59,9 @@ CVPR完整论文列表：
 
 <a name="2.图像编辑"></a>
 # 2.图像编辑(Image Editing)
+### Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing
+- Paper: https://arxiv.org/abs/2311.18608
+- Code: https://github.com/HyelinNAM/ContrastiveDenoisingScore
 ### Edit One for All: Interactive Batch Image Editing
 - Paper: https://arxiv.org/abs/2401.10219
 - Code: https://github.com/thaoshibe/edit-one-for-all
