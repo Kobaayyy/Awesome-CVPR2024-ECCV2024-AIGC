@@ -46,7 +46,7 @@ CVPR完整论文列表：
 - Paper: https://arxiv.org/abs/2402.05408
 - Code: https://github.com/Shilin-LU/MACE
 ### MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis
-- Paper: 
+- Paper: https://arxiv.org/abs/2402.05408
 - Code: https://github.com/limuloo/MIGC
 ### PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding  
 - Paper: https://arxiv.org/abs/2312.04461
