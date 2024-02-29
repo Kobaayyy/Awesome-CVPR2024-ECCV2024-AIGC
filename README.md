@@ -104,6 +104,9 @@ CVPR完整论文列表：
 ### CityDreamer: Compositional Generative Model of Unbounded 3D Cities
 - Paper: https://arxiv.org/abs/2309.00610
 - Code: https://github.com/kxhit/EscherNet
+### Consistent3D: Towards Consistent High-Fidelity Text-to-3D Generation with Deterministic Sampling Prior
+- Paper: https://arxiv.org/abs/2401.09050
+- Code: https://github.com/sail-sg/Consistent3D
 ### DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models
 - Paper: https://arxiv.org/abs/2304.00916
 - Code: https://github.com/yukangcao/DreamAvatar
