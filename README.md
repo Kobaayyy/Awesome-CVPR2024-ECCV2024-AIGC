@@ -24,7 +24,7 @@ CVPR完整论文列表：
 - [4.视频编辑(Video Editing)](#4.视频编辑)
 - [5.3D生成(3D Generation/3D Synthesis)](#5.3D生成)
 - [6.3D编辑(3D Editing)](#6.3D编辑)
-- [7.7.多模态大语言模型(Multi-Modal Large Language Model)](#7.大语言模型)
+- [7.多模态大语言模型(Multi-Modal Large Language Model)](#7.大语言模型)
 - [8.其他多任务(Others)](#8.其他)
 
 <a name="1.图像生成"></a>
