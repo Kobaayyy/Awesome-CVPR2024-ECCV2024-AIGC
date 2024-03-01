@@ -46,12 +46,18 @@ CVPR完整论文列表：
 ### Efficient Dataset Distillation via Minimax Diffusion
 - Paper: https://arxiv.org/abs/2311.15529
 - Code: https://github.com/vimar-gu/MinimaxDiffusion
+### ElasticDiffusion: Training-free Arbitrary Size Image Generation
+- Paper: https://arxiv.org/abs/2311.18822
+- Code: https://github.com/MoayedHajiAli/ElasticDiffusion-official
 ### InstanceDiffusion: Instance-level Control for Image Generation
 - Paper: https://arxiv.org/abs/2402.03290
 - Code: https://github.com/frank-xwang/InstanceDiffusion
 ### Instruct-Imagen: Image Generation with Multi-modal Instruction
 - Paper: https://arxiv.org/abs/2401.01952
 - Code: 
+### InteractDiffusion: Interaction-Control for Text-to-Image Diffusion Model
+- Paper: https://github.com/jiuntian/interactdiffusion
+- Code: https://arxiv.org/abs/2312.05849
 ### Inversion-Free Image Editing with Natural Language
 - Paper: https://arxiv.org/abs/2312.04965
 - Code: https://github.com/sled-group/InfEdit
@@ -136,6 +142,9 @@ CVPR完整论文列表：
   
 <a name="5.3D生成"></a>
 # 5.3D生成(3D Generation/3D Synthesis)
+### CAD: Photorealistic 3D Generation via Adversarial Distillation
+- Paper: https://arxiv.org/abs/2312.06663
+- Code: https://github.com/raywzy/CAD
 ### CityDreamer: Compositional Generative Model of Unbounded 3D Cities
 - Paper: https://arxiv.org/abs/2309.00610
 - Code: https://github.com/kxhit/EscherNet
