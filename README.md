@@ -37,6 +37,9 @@ CVPR完整论文列表：
 ### DeepCache: Accelerating Diffusion Models for Free
 - Paper: https://arxiv.org/abs/2312.00858
 - Code: https://github.com/horseee/DeepCache
+### DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization
+- Paper: https://arxiv.org/abs/2402.09812
+- Code: https://github.com/KU-CVLAB/DreamMatcher
 ### DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models
 - Paper: https://arxiv.org/abs/2211.02048
 - Code: https://github.com/mit-han-lab/distrifuser
@@ -165,6 +168,9 @@ CVPR完整论文列表：
 ### GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models
 - Paper: https://arxiv.org/abs/2310.08529
 - Code: https://github.com/hustvl/GaussianDreamer
+### HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D
+- Paper: https://arxiv.org/abs/2312.15980
+- Code: https://github.com/byeongjun-park/HarmonyView
 ### MoMask: Generative Masked Modeling of 3D Human Motions
 - Paper: https://arxiv.org/abs/2312.00063
 - Code: https://github.com/EricGuo5513/momask-codes
