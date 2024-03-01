@@ -24,7 +24,8 @@ CVPR完整论文列表：
 - [4.视频编辑(Video Editing)](#4.视频编辑)
 - [5.3D生成(3D Generation/3D Synthesis)](#5.3D生成)
 - [6.3D编辑(3D Editing)](#6.3D编辑)
-- [7.其他多任务(Others)](#7.其他)
+- [7.7.多模态大语言模型(Multi-Modal Large Language Model)](#7.大语言模型)
+- [8.其他多任务(Others)](#8.其他)
 
 <a name="1.图像生成"></a>
 # 1.图像生成(Image Generation/Image Synthesis)
@@ -111,7 +112,7 @@ CVPR完整论文列表：
 - Code: https://github.com/TencentARC/SmartEdit
   
 <a name="3.视频生成"></a>
-# 3.视频生成(Video Generation/Image Synthesis)
+# 3.视频生成(Video Generation/Video Synthesis)
 ### A Recipe for Scaling up Text-to-Video Generation with Text-free Videos
 - Paper: https://arxiv.org/abs/2312.15770
 - Code: https://tf-t2v.github.io/
@@ -190,15 +191,16 @@ CVPR完整论文列表：
 ### GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting
 - Paper: https://arxiv.org/abs/2311.14521
 - Code: https://github.com/buaacyw/GaussianEditor
-  
-<a name="7.其他"></a>
-# 7.其他多任务(Others)
-### EvalCrafter: Benchmarking and Evaluating Large Video Generation Models
-- Paper: https://arxiv.org/abs/2310.11440
-- Code: https://github.com/evalcrafter/EvalCrafter
+
+
+<a name="7.大语言模型"></a>
+# 7.多模态大语言模型(Multi-Modal Large Language Models)
 ### InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks
 - Paper: https://arxiv.org/abs/2312.14238
 - Code: https://github.com/OpenGVLab/InternVL
+### OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation
+- Paper: https://arxiv.org/abs/2311.17911
+- Code: https://github.com/shikiw/OPERA
 ### Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models
 - Paper: https://arxiv.org/abs/2311.06783
 - Code: https://github.com/Q-Future/Q-Instruct
@@ -208,6 +210,13 @@ CVPR完整论文列表：
 ### ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts
 - Paper: https://arxiv.org/abs/2312.00784
 - Code: https://github.com/mu-cai/ViP-LLaVA
+
+<a name="8.其他"></a>
+# 8.其他多任务(Others)
+### EvalCrafter: Benchmarking and Evaluating Large Video Generation Models
+- Paper: https://arxiv.org/abs/2310.11440
+- Code: https://github.com/evalcrafter/EvalCrafter
+
 
 
 <font color=red size=5>持续更新~</font>
