@@ -59,6 +59,9 @@ CVPR完整论文列表：
 ### Instruct-Imagen: Image Generation with Multi-modal Instruction
 - Paper: https://arxiv.org/abs/2401.01952
 - Code: 
+### Intelligent Grimm - Open-ended Visual Storytelling via Latent Diffusion Models
+- Paper: https://arxiv.org/abs/2306.00973
+- Code: https://github.com/haoningwu3639/StoryGen
 ### InteractDiffusion: Interaction-Control for Text-to-Image Diffusion Model
 - Paper: https://github.com/jiuntian/interactdiffusion
 - Code: https://arxiv.org/abs/2312.05849
@@ -144,7 +147,9 @@ CVPR完整论文列表：
 ### VidToMe: Video Token Merging for Zero-Shot Video Editing
 - Paper: https://arxiv.org/abs/2312.10656
 - Code: https://github.com/lixirui142/VidToMe
-
+### VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models
+- Paper: https://arxiv.org/abs/2312.00845
+- Code: https://github.com/HyeonHo99/Video-Motion-Customization
   
 <a name="5.3D生成"></a>
 # 5.3D生成(3D Generation/3D Synthesis)
@@ -184,8 +189,14 @@ CVPR完整论文列表：
 ### RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D.
 - Paper: https://arxiv.org/abs/2311.16918
 - Code: https://github.com/modelscope/richdreamer
+### Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior
+- Paper: https://arxiv.org/abs/2312.06655
+- Code: https://github.com/liuff19/Sherpa3D
+### ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models
+- Paper: https://arxiv.org/abs/2312.01305
+- Code: https://github.com/ubc-vision/vivid123
 
-  
+
 <a name="6.3D编辑"></a>
 # 6.3D编辑(3D Editing)
 ### GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting
@@ -195,9 +206,15 @@ CVPR完整论文列表：
 
 <a name="7.大语言模型"></a>
 # 7.多模态大语言模型(Multi-Modal Large Language Models)
+### Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding
+- Paper: https://arxiv.org/abs/2311.08046
+- Code: https://github.com/PKU-YuanGroup/Chat-UniVi
 ### InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks
 - Paper: https://arxiv.org/abs/2312.14238
 - Code: https://github.com/OpenGVLab/InternVL
+### LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge
+- Paper: https://arxiv.org/abs/2311.11860
+- Code: https://github.com/rshaojimmy/JiuTian
 ### OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation
 - Paper: https://arxiv.org/abs/2311.17911
 - Code: https://github.com/shikiw/OPERA
