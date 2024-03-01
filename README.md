@@ -37,6 +37,9 @@ CVPR完整论文列表：
 ### DeepCache: Accelerating Diffusion Models for Free
 - Paper: https://arxiv.org/abs/2312.00858
 - Code: https://github.com/horseee/DeepCache
+### DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models
+- Paper: https://arxiv.org/abs/2211.02048
+- Code: https://github.com/mit-han-lab/distrifuser
 ### ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations
 - Paper: https://arxiv.org/abs/2312.04655
 - Code: https://github.com/eclipse-t2i/eclipse-inference
