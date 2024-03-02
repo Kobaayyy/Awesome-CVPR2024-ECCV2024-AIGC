@@ -218,12 +218,18 @@ CVPR完整论文列表：
 ### OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation
 - Paper: https://arxiv.org/abs/2311.17911
 - Code: https://github.com/shikiw/OPERA
+### GPT4Point: A Unified Framework for Point-Language Understanding and Generation
+- Paper: https://arxiv.org/abs/2312.02980
+- Code: https://github.com/Pointcept/GPT4Point
 ### Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models
 - Paper: https://arxiv.org/abs/2311.06783
 - Code: https://github.com/Q-Future/Q-Instruct
 ### SEED-Bench: Benchmarking Multimodal Large Language Models
 - Paper: https://arxiv.org/abs/2311.17092
 - Code: https://github.com/AILab-CVC/SEED-Bench
+### VBench: Comprehensive Benchmark Suite for Video Generative Models
+- Paper: https://arxiv.org/abs/2311.17982
+- Code: https://github.com/Vchitect/VBench
 ### ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts
 - Paper: https://arxiv.org/abs/2312.00784
 - Code: https://github.com/mu-cai/ViP-LLaVA
