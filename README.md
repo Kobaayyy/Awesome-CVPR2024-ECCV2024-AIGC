@@ -68,6 +68,9 @@ CVPR完整论文列表：
 ### Inversion-Free Image Editing with Natural Language
 - Paper: https://arxiv.org/abs/2312.04965
 - Code: https://github.com/sled-group/InfEdit
+### LeftRefill: Filling Right Canvas based on Left Reference through Generalized Text-to-Image Diffusion Model
+- Paper: 
+- Code: https://github.com/ewrfcas/LeftRefill
 ### Let us democratise high-resolution generation
 - Paper: https://arxiv.org/abs/2401.01952
 - Code: https://github.com/PRIS-CV/DemoFusion
@@ -206,6 +209,9 @@ CVPR完整论文列表：
 
 <a name="7.大语言模型"></a>
 # 7.多模态大语言模型(Multi-Modal Large Language Models)
+### Alpha-CLIP: A CLIP Model Focusing on Wherever You Want
+- Paper: https://arxiv.org/abs/2312.03818
+- Code: https://github.com/SunzeY/AlphaCLIP
 ### Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding
 - Paper: https://arxiv.org/abs/2311.08046
 - Code: https://github.com/PKU-YuanGroup/Chat-UniVi
