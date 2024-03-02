@@ -104,6 +104,9 @@ CVPR完整论文列表：
 ### Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation
 - Paper: https://arxiv.org/abs/2312.10113
 - Code: https://github.com/guoqincode/Focus-on-Your-Instruction
+### Inversion-Free Image Editing with Natural Language
+- Paper: hhttps://arxiv.org/abs/2312.04965
+- Code: https://github.com/sled-group/InfEdit
 ### PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models
 - Paper: https://arxiv.org/abs/2303.17546
 - Code: https://github.com/Picsart-AI-Research/PAIR-Diffusion
@@ -125,6 +128,9 @@ CVPR完整论文列表：
 ### DisCo: Disentangled Control for Realistic Human Dance Generation
 - Paper: https://arxiv.org/abs/2307.00040
 - Code: https://github.com/Wangt-CN/DisCo
+### MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
+- Paper: https://arxiv.org/abs/2311.16498
+- Code: https://github.com/magic-research/magic-animate
 ### Make Your Dream A Vlog
 - Paper: https://arxiv.org/abs/2401.09414
 - Code: https://github.com/Vchitect/Vlogger
@@ -177,6 +183,9 @@ CVPR完整论文列表：
 ### GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models
 - Paper: https://arxiv.org/abs/2310.08529
 - Code: https://github.com/hustvl/GaussianDreamer
+### GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation
+- Paper: https://arxiv.org/abs/2401.04092
+- Code: https://github.com/3DTopia/GPTEval3D
 ### HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D
 - Paper: https://arxiv.org/abs/2312.15980
 - Code: https://github.com/byeongjun-park/HarmonyView
@@ -215,18 +224,24 @@ CVPR完整论文列表：
 ### Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding
 - Paper: https://arxiv.org/abs/2311.08046
 - Code: https://github.com/PKU-YuanGroup/Chat-UniVi
+### GPT4Point: A Unified Framework for Point-Language Understanding and Generation
+- Paper: https://arxiv.org/abs/2312.02980
+- Code: https://github.com/Pointcept/GPT4Point
 ### InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks
 - Paper: https://arxiv.org/abs/2312.14238
 - Code: https://github.com/OpenGVLab/InternVL
 ### LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge
 - Paper: https://arxiv.org/abs/2311.11860
 - Code: https://github.com/rshaojimmy/JiuTian
+### OneLLM: One Framework to Align All Modalities with Language
+- Paper: https://arxiv.org/abs/2312.03700
+- Code: https://github.com/csuhan/OneLLM
 ### OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation
 - Paper: https://arxiv.org/abs/2311.17911
 - Code: https://github.com/shikiw/OPERA
-### GPT4Point: A Unified Framework for Point-Language Understanding and Generation
-- Paper: https://arxiv.org/abs/2312.02980
-- Code: https://github.com/Pointcept/GPT4Point
+### Prompt Highlighter: Interactive Control for Multi-Modal LLMs
+- Paper: https://arxiv.org/abs/2312.04302
+- Code: https://github.com/dvlab-research/Prompt-Highlighter
 ### Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models
 - Paper: https://arxiv.org/abs/2311.06783
 - Code: https://github.com/Q-Future/Q-Instruct
