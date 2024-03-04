@@ -86,18 +86,22 @@ CVPR完整论文列表：
 ### PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding  
 - Paper: https://arxiv.org/abs/2312.04461
 - Code: https://github.com/TencentARC/PhotoMaker
+### Residual Denoising Diffusion Models
+- Paper: https://arxiv.org/abs/2308.13712
+- Code: https://github.com/nachifur/RDDM
 ### Shadow Generation for Composite Image Using Diffusion Model
 - Paper: https://arxiv.org/abs/2308.09972
 - Code: https://github.com/bcmi/Object-Shadow-Generation-Dataset-DESOBAv2
 ### StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On
 - Paper: https://arxiv.org/abs/2312.01725
 - Code: https://github.com/rlawjdghek/StableVITON
-###  SVGDreamer: Text Guided SVG Generation with Diffusion Model
+### SVGDreamer: Text Guided SVG Generation with Diffusion Model
 - Paper: https://arxiv.org/abs/2312.16476
 - Code: https://github.com/ximinng/SVGDreamer
-### Residual Denoising Diffusion Models
-- Paper: https://arxiv.org/abs/2308.13712
-- Code: https://github.com/nachifur/RDDM
+### TokenCompose: Grounding Diffusion with Token-level Supervision
+- Paper: https://arxiv.org/abs/2312.03626
+- Code: https://github.com/mlpc-ucsd/TokenCompose
+
 
 <a name="2.图像编辑"></a>
 # 2.图像编辑(Image Editing)
