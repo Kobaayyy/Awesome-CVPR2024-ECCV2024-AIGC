@@ -47,6 +47,9 @@ CVPR完整论文列表：
 ### Diversity-aware Channel Pruning for StyleGAN Compression
 - Paper: https://arxiv.org/abs/2211.02048
 - Code: https://github.com/jiwoogit/DCP-GAN
+### Discriminative Probing and Tuning for Text-to-Image Generation
+- Paper: https://arxiv.org/abs/2211.02048
+- Code: 
 ### ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations
 - Paper: https://arxiv.org/abs/2312.04655
 - Code: https://github.com/eclipse-t2i/eclipse-inference
@@ -56,6 +59,9 @@ CVPR完整论文列表：
 ### ElasticDiffusion: Training-free Arbitrary Size Image Generation
 - Paper: https://arxiv.org/abs/2311.18822
 - Code: https://github.com/MoayedHajiAli/ElasticDiffusion-official
+### High-fidelity Person-centric Subject-to-Image Synthesis
+- Paper: https://arxiv.org/abs/2311.10329
+- Code: https://github.com/CodeGoat24/Face-diffuser?tab=readme-ov-file
 ### InstanceDiffusion: Instance-level Control for Image Generation
 - Paper: https://arxiv.org/abs/2402.03290
 - Code: https://github.com/frank-xwang/InstanceDiffusion
@@ -114,6 +120,9 @@ CVPR完整论文列表：
 ### Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing
 - Paper: https://arxiv.org/abs/2311.18608
 - Code: https://github.com/HyelinNAM/ContrastiveDenoisingScore
+### Deformable One-shot Face Stylization via DINO Semantic Guidance
+- Paper: https://arxiv.org/abs/2403.00459
+- Code: https://github.com/zichongc/DoesFS
 ### DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing
 - Paper: https://arxiv.org/abs/2312.07409
 - Code: https://github.com/Kevin-thu/DiffMorpher
@@ -288,6 +297,9 @@ CVPR完整论文列表：
 ### OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation
 - Paper: https://arxiv.org/abs/2311.17911
 - Code: https://github.com/shikiw/OPERA
+### PixelLM: Pixel Reasoning with Large Multimodal Model
+- Paper: https://arxiv.org/abs/2312.02228
+- Code: https://github.com/MaverickRen/PixelLM
 ### Prompt Highlighter: Interactive Control for Multi-Modal LLMs
 - Paper: https://arxiv.org/abs/2312.04302
 - Code: https://github.com/dvlab-research/Prompt-Highlighter
