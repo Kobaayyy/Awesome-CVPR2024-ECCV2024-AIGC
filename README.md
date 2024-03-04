@@ -44,6 +44,9 @@ CVPR完整论文列表：
 ### DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models
 - Paper: https://arxiv.org/abs/2211.02048
 - Code: https://github.com/mit-han-lab/distrifuser
+### Diversity-aware Channel Pruning for StyleGAN Compression
+- Paper: https://arxiv.org/abs/2211.02048
+- Code: https://github.com/jiwoogit/DCP-GAN
 ### ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations
 - Paper: https://arxiv.org/abs/2312.04655
 - Code: https://github.com/eclipse-t2i/eclipse-inference
@@ -83,9 +86,15 @@ CVPR完整论文列表：
 ### PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding  
 - Paper: https://arxiv.org/abs/2312.04461
 - Code: https://github.com/TencentARC/PhotoMaker
+### Shadow Generation for Composite Image Using Diffusion Model
+- Paper: https://arxiv.org/abs/2308.09972
+- Code: https://github.com/bcmi/Object-Shadow-Generation-Dataset-DESOBAv2
 ### StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On
 - Paper: https://arxiv.org/abs/2312.01725
 - Code: https://github.com/rlawjdghek/StableVITON
+###  SVGDreamer: Text Guided SVG Generation with Diffusion Model
+- Paper: https://arxiv.org/abs/2312.16476
+- Code: https://github.com/ximinng/SVGDreamer
 ### Residual Denoising Diffusion Models
 - Paper: https://arxiv.org/abs/2308.13712
 - Code: https://github.com/nachifur/RDDM
@@ -119,6 +128,9 @@ CVPR完整论文列表：
 ### SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models
 - Paper: https://arxiv.org/abs/2312.06739
 - Code: https://github.com/TencentARC/SmartEdit
+### Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer
+- Paper: https://arxiv.org/abs/2312.09008
+- Code: https://github.com/jiwoogit/Style-InDi
   
 <a name="3.视频生成"></a>
 # 3.视频生成(Video Generation/Video Synthesis)
@@ -186,6 +198,9 @@ CVPR完整论文列表：
 ### GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation
 - Paper: https://arxiv.org/abs/2401.04092
 - Code: https://github.com/3DTopia/GPTEval3D
+### Gaussian Shell Maps for Efficient 3D Human Generation
+- Paper: https://arxiv.org/abs/2311.17857
+- Code: https://github.com/computational-imaging/GSM
 ### HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D
 - Paper: https://arxiv.org/abs/2312.15980
 - Code: https://github.com/byeongjun-park/HarmonyView
@@ -201,9 +216,15 @@ CVPR完整论文列表：
 ### RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D.
 - Paper: https://arxiv.org/abs/2311.16918
 - Code: https://github.com/modelscope/richdreamer
+### SceneTex: High-Quality Texture Synthesis for Indoor Scenes via Diffusion Priors
+- Paper: https://arxiv.org/abs/2311.17261
+- Code: https://github.com/daveredrum/SceneTex
 ### Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior
 - Paper: https://arxiv.org/abs/2312.06655
 - Code: https://github.com/liuff19/Sherpa3D
+### Text-to-3D using Gaussian Splatting
+- Paper: https://arxiv.org/abs/2309.16585
+- Code: https://github.com/gsgen3d/gsgen
 ### ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models
 - Paper: https://arxiv.org/abs/2312.01305
 - Code: https://github.com/ubc-vision/vivid123
@@ -233,6 +254,9 @@ CVPR完整论文列表：
 ### LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge
 - Paper: https://arxiv.org/abs/2311.11860
 - Code: https://github.com/rshaojimmy/JiuTian
+### LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning
+- Paper: https://arxiv.org/abs/2311.18651
+- Code: https://github.com/Open3DA/LL3DA
 ### OneLLM: One Framework to Align All Modalities with Language
 - Paper: https://arxiv.org/abs/2312.03700
 - Code: https://github.com/csuhan/OneLLM
