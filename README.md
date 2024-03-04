@@ -86,12 +86,18 @@ CVPR完整论文列表：
 ### PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding  
 - Paper: https://arxiv.org/abs/2312.04461
 - Code: https://github.com/TencentARC/PhotoMaker
+### Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models
+- Paper: https://arxiv.org/abs/2305.16223
+- Code: https://github.com/SHI-Labs/Prompt-Free-Diffusion
 ### Residual Denoising Diffusion Models
 - Paper: https://arxiv.org/abs/2308.13712
 - Code: https://github.com/nachifur/RDDM
 ### Shadow Generation for Composite Image Using Diffusion Model
 - Paper: https://arxiv.org/abs/2308.09972
 - Code: https://github.com/bcmi/Object-Shadow-Generation-Dataset-DESOBAv2
+### Smooth Diffusion: Crafting Smooth Latent Spaces in Diffusion Models
+- Paper: https://arxiv.org/abs/2312.04410
+- Code: https://github.com/SHI-Labs/Smooth-Diffusion
 ### StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On
 - Paper: https://arxiv.org/abs/2312.01725
 - Code: https://github.com/rlawjdghek/StableVITON
@@ -178,6 +184,12 @@ CVPR完整论文列表：
   
 <a name="5.3D生成"></a>
 # 5.3D生成(3D Generation/3D Synthesis)
+### Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling
+- Paper: https://arxiv.org/abs/2311.16096
+- Code: https://github.com/lizhe00/AnimatableGaussians
+### BerfScene: Bev-conditioned Equivariant Radiance Fields for Infinite 3D Scene Generation
+- Paper: https://arxiv.org/abs/2312.02136
+- Code: https://github.com/zqh0253/BerfScene
 ### CAD: Photorealistic 3D Generation via Adversarial Distillation
 - Paper: https://arxiv.org/abs/2312.06663
 - Code: https://github.com/raywzy/CAD
@@ -223,6 +235,9 @@ CVPR完整论文列表：
 ### SceneTex: High-Quality Texture Synthesis for Indoor Scenes via Diffusion Priors
 - Paper: https://arxiv.org/abs/2311.17261
 - Code: https://github.com/daveredrum/SceneTex
+### SceneWiz3D: Towards Text-guided 3D Scene Composition
+- Paper: https://arxiv.org/abs/2312.08885
+- Code: https://github.com/zqh0253/SceneWiz3D
 ### Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior
 - Paper: https://arxiv.org/abs/2312.06655
 - Code: https://github.com/liuff19/Sherpa3D
@@ -249,6 +264,9 @@ CVPR完整论文列表：
 ### Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding
 - Paper: https://arxiv.org/abs/2311.08046
 - Code: https://github.com/PKU-YuanGroup/Chat-UniVi
+### Efficient Stitchable Task Adaptation
+- Paper: https://arxiv.org/abs/2311.17352
+- Code: https://github.com/ziplab/Stitched_LLaMA
 ### GPT4Point: A Unified Framework for Point-Language Understanding and Generation
 - Paper: https://arxiv.org/abs/2312.02980
 - Code: https://github.com/Pointcept/GPT4Point
@@ -261,6 +279,9 @@ CVPR完整论文列表：
 ### LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning
 - Paper: https://arxiv.org/abs/2311.18651
 - Code: https://github.com/Open3DA/LL3DA
+### Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding
+- Paper: https://arxiv.org/abs/2311.16922
+- Code: https://github.com/DAMO-NLP-SG/VCD
 ### OneLLM: One Framework to Align All Modalities with Language
 - Paper: https://arxiv.org/abs/2312.03700
 - Code: https://github.com/csuhan/OneLLM
