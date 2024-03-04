@@ -72,8 +72,8 @@ CVPR完整论文列表：
 - Paper: https://arxiv.org/abs/2306.00973
 - Code: https://github.com/haoningwu3639/StoryGen
 ### InteractDiffusion: Interaction-Control for Text-to-Image Diffusion Model
-- Paper: https://github.com/jiuntian/interactdiffusion
-- Code: https://arxiv.org/abs/2312.05849
+- Paper: https://arxiv.org/abs/2312.05849
+- Code: https://github.com/jiuntian/interactdiffusion
 ### Inversion-Free Image Editing with Natural Language
 - Paper: https://arxiv.org/abs/2312.04965
 - Code: https://github.com/sled-group/InfEdit
