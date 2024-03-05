@@ -92,6 +92,9 @@ CVPR完整论文列表：
 ### PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding  
 - Paper: https://arxiv.org/abs/2312.04461
 - Code: https://github.com/TencentARC/PhotoMaker
+### PLACE: Adaptive Layout-Semantic Fusion for Semantic Image Synthesis
+- Paper: 
+- Code: https://github.com/cszy98/PLACE
 ### Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models
 - Paper: https://arxiv.org/abs/2305.16223
 - Code: https://github.com/SHI-Labs/Prompt-Free-Diffusion
