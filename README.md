@@ -116,7 +116,9 @@ CVPR完整论文列表：
 ### TokenCompose: Grounding Diffusion with Token-level Supervision
 - Paper: https://arxiv.org/abs/2312.03626
 - Code: https://github.com/mlpc-ucsd/TokenCompose
-
+### ViewDiff: 3D-Consistent Image Generation with Text-To-Image Models
+- Paper: https://arxiv.org/abs/2403.01807
+- Code: https://github.com/facebookresearch/ViewDiff
 
 <a name="2.图像编辑"></a>
 # 2.图像编辑(Image Editing)
