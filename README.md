@@ -224,6 +224,9 @@ CVPR完整论文列表：
 ### DreamComposer: Controllable 3D Object Generation via Multi-View Conditions
 - Paper: https://arxiv.org/abs/2312.03611
 - Code: https://github.com/yhyang-myron/DreamComposer
+### DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior
+- Paper: https://arxiv.org/abs/2312.06439
+- Code: https://github.com/tyhuang0428/DreamControl
 ### EscherNet: A Generative Model for Scalable View Synthesis
 - Paper: https://arxiv.org/abs/2402.03908
 - Code: https://github.com/hzxie/city-dreamer
