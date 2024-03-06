@@ -35,6 +35,9 @@ CVPR完整论文列表：
 ### Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis
 - Paper: https://arxiv.org/abs/2402.00627
 - Code: https://github.com/YanzuoLu/CFLD
+### Enabling Multi-Concept Fusion in Text-to-Image Models
+- Paper: 
+- Code: 
 ### DeepCache: Accelerating Diffusion Models for Free
 - Paper: https://arxiv.org/abs/2312.00858
 - Code: https://github.com/horseee/DeepCache
@@ -182,7 +185,9 @@ CVPR完整论文列表：
 ### VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models
 - Paper: https://arxiv.org/abs/2401.09047
 - Code: https://github.com/AILab-CVC/VideoCrafter
-
+### VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models
+- Paper: https://arxiv.org/abs/2312.00845
+- Code: https://github.com/HyeonHo99/Video-Motion-Customization
   
 <a name="4.视频编辑"></a>
 # 4.视频编辑(Video Editing)
