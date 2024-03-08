@@ -11,11 +11,11 @@ A Collection of Papers and Codes for CVPR2024 AIGC
 
 CVPR2024官网：[https://cvpr.thecvf.com/Conferences/2024](https://cvpr.thecvf.com/Conferences/2024)
 
-CVPR完整论文列表：
+CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 开会时间：2024年6月17日-6月21日
 
-论文接收公布时间：
+论文接收公布时间：2024年3月6日
 
 **【Contents】**
 - [1.图像生成(Image Generation/Image Synthesis)](#1.图像生成)
@@ -35,6 +35,9 @@ CVPR完整论文列表：
 ### Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis
 - Paper: https://arxiv.org/abs/2402.00627
 - Code: https://github.com/YanzuoLu/CFLD
+### EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models
+- Paper: https://arxiv.org/abs/2401.04608
+- Code: https://github.com/JingyuanYY/EmoGen
 ### Enabling Multi-Concept Fusion in Text-to-Image Models
 - Paper: 
 - Code: 
@@ -125,6 +128,9 @@ CVPR完整论文列表：
 
 <a name="2.图像编辑"></a>
 # 2.图像编辑(Image Editing)
+### An Edit Friendly DDPM Noise Space: Inversion and Manipulations
+- Paper: https://arxiv.org/abs/2304.06140
+- Code: https://github.com/inbarhub/DDPM_inversion
 ### Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing
 - Paper: https://arxiv.org/abs/2311.18608
 - Code: https://github.com/HyelinNAM/ContrastiveDenoisingScore
@@ -134,6 +140,9 @@ CVPR完整论文列表：
 ### DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing
 - Paper: https://arxiv.org/abs/2312.07409
 - Code: https://github.com/Kevin-thu/DiffMorpher
+### Doubly Abductive Counterfactual Inference for Text-based Image Editing
+- Paper: https://arxiv.org/abs/2403.02981
+- Code: https://github.com/xuesong39/DAC
 ### Edit One for All: Interactive Batch Image Editing
 - Paper: https://arxiv.org/abs/2401.10219
 - Code: https://github.com/thaoshibe/edit-one-for-all
