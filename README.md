@@ -65,6 +65,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### ElasticDiffusion: Training-free Arbitrary Size Image Generation
 - Paper: https://arxiv.org/abs/2311.18822
 - Code: https://github.com/MoayedHajiAli/ElasticDiffusion-official
+### Generative Unlearning for Any Identity
+- Paper: 
+- Code: https://github.com/JJuOn/GUIDE
 ### High-fidelity Person-centric Subject-to-Image Synthesis
 - Paper: https://arxiv.org/abs/2311.10329
 - Code: https://github.com/CodeGoat24/Face-diffuser?tab=readme-ov-file
@@ -131,6 +134,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### An Edit Friendly DDPM Noise Space: Inversion and Manipulations
 - Paper: https://arxiv.org/abs/2304.06140
 - Code: https://github.com/inbarhub/DDPM_inversion
+### Content-Style Decoupling for Unsupervised Makeup Transfer without Generating Pseudo Ground Truth
+- Paper: 
+- Code: https://github.com/Snowfallingplum/CSD-MT
 ### Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing
 - Paper: https://arxiv.org/abs/2311.18608
 - Code: https://github.com/HyelinNAM/ContrastiveDenoisingScore
@@ -146,6 +152,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### Edit One for All: Interactive Batch Image Editing
 - Paper: https://arxiv.org/abs/2401.10219
 - Code: https://github.com/thaoshibe/edit-one-for-all
+### Face2Diffusion for Fast and Editable Face Personalization
+- Paper: https://arxiv.org/abs/2403.05094
+- Code: https://github.com/mapooon/Face2Diffusion
 ### Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation
 - Paper: https://arxiv.org/abs/2312.10113
 - Code: https://github.com/guoqincode/Focus-on-Your-Instruction
@@ -340,6 +349,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 <a name="8.其他"></a>
 # 8.其他多任务(Others)
+### AEROBLADE: Training-Free Detection of Latent Diffusion Images Using Autoencoder Reconstruction Error
+- Paper: https://arxiv.org/abs/2401.17879
+- Code: https://github.com/jonasricker/aeroblade
 ### EvalCrafter: Benchmarking and Evaluating Large Video Generation Models
 - Paper: https://arxiv.org/abs/2310.11440
 - Code: https://github.com/evalcrafter/EvalCrafter
