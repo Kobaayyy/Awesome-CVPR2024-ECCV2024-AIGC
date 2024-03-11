@@ -29,6 +29,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 <a name="1.图像生成"></a>
 # 1.图像生成(Image Generation/Image Synthesis)
+### Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion
+- Paper: https://arxiv.org/abs/2312.12471
+- Code: https://github.com/zkawfanx/Atlantis
 ### CapHuman: Capture Your Moments in Parallel Universes
 - Paper: https://arxiv.org/abs/2402.18078
 - Code: https://github.com/VamosC/CapHuman
@@ -107,9 +110,15 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models
 - Paper: https://arxiv.org/abs/2305.16223
 - Code: https://github.com/SHI-Labs/Prompt-Free-Diffusion
+### Relation Rectification in Diffusion Model
+- Paper: 
+- Code: https://github.com/WUyinwei-hah/RRNet
 ### Residual Denoising Diffusion Models
 - Paper: https://arxiv.org/abs/2308.13712
 - Code: https://github.com/nachifur/RDDM
+### Self-correcting LLM-controlled Diffusion Models
+- Paper: https://arxiv.org/abs/2311.16090
+- Code: https://github.com/tsunghan-wu/SLD
 ### Shadow Generation for Composite Image Using Diffusion Model
 - Paper: https://arxiv.org/abs/2308.09972
 - Code: https://github.com/bcmi/Object-Shadow-Generation-Dataset-DESOBAv2
@@ -122,6 +131,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### SVGDreamer: Text Guided SVG Generation with Diffusion Model
 - Paper: https://arxiv.org/abs/2312.16476
 - Code: https://github.com/ximinng/SVGDreamer
+### TFMQ-DM: Temporal Feature Maintenance Quantization for Diffusion Models
+- Paper: https://arxiv.org/abs/2311.16503
+- Code: https://github.com/ModelTC/TFMQ-DM
 ### TokenCompose: Grounding Diffusion with Token-level Supervision
 - Paper: https://arxiv.org/abs/2312.03626
 - Code: https://github.com/mlpc-ucsd/TokenCompose
@@ -143,6 +155,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### Deformable One-shot Face Stylization via DINO Semantic Guidance
 - Paper: https://arxiv.org/abs/2403.00459
 - Code: https://github.com/zichongc/DoesFS
+### DiffAM: Diffusion-based Adversarial Makeup Transfer for Facial Privacy Protection
+- Paper: 
+- Code: https://github.com/HansSunY/DiffAM
 ### DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing
 - Paper: https://arxiv.org/abs/2312.07409
 - Code: https://github.com/Kevin-thu/DiffMorpher
@@ -170,6 +185,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models
 - Paper: https://arxiv.org/abs/2312.13964
 - Code: https://github.com/open-mmlab/PIA
+### FreeDrag: Feature Dragging for Reliable Point-based Image Editing
+- Paper: https://arxiv.org/abs/2307.04684
+- Code: https://github.com/LPengYang/FreeDrag
 ### SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models
 - Paper: https://arxiv.org/abs/2312.06739
 - Code: https://github.com/TencentARC/SmartEdit
@@ -326,8 +344,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2312.03700
 - Code: https://github.com/csuhan/OneLLM
 ### OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation
-- Paper: https://arxiv.org/abs/2311.17911
+- Paper: https://arxiv.org/abs/2402.19479
 - Code: https://github.com/shikiw/OPERA
+### Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers
+- Paper: https://arxiv.org/abs/2311.17911
+- Code: https://github.com/snap-research/Panda-70M
 ### PixelLM: Pixel Reasoning with Large Multimodal Model
 - Paper: https://arxiv.org/abs/2312.02228
 - Code: https://github.com/MaverickRen/PixelLM
