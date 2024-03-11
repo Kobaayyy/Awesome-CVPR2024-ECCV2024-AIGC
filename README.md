@@ -48,14 +48,14 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2402.09812
 - Code: https://github.com/KU-CVLAB/DreamMatcher
 ### DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models
-- Paper: https://arxiv.org/abs/2211.02048
+- Paper: https://arxiv.org/abs/2402.19481
 - Code: https://github.com/mit-han-lab/distrifuser
 ### Diversity-aware Channel Pruning for StyleGAN Compression
-- Paper: https://arxiv.org/abs/2211.02048
+- Paper: 
 - Code: https://github.com/jiwoogit/DCP-GAN
 ### Discriminative Probing and Tuning for Text-to-Image Generation
-- Paper: https://arxiv.org/abs/2211.02048
-- Code: 
+- Paper: https://www.arxiv.org/abs/2403.04321
+- Code: https://github.com/LgQu/DPT-T2I
 ### ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations
 - Paper: https://arxiv.org/abs/2312.04655
 - Code: https://github.com/eclipse-t2i/eclipse-inference
