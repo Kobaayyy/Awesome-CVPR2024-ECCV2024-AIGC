@@ -68,6 +68,8 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2311.16973
 - Code: https://github.com/PRIS-CV/DemoFusion
 
+### Diffusion-driven GAN Inversion for Multi-Modal Facial Image Generation
+
 ### DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models
 
 - Paper: https://arxiv.org/abs/2402.19481
@@ -235,6 +237,9 @@ Paper: https://arxiv.org/abs/2308.10997
 
 - Paper: https://arxiv.org/abs/2312.16476
 - Code: https://github.com/ximinng/SVGDreamer
+
+### Taming Stable Diffusion for Text to 360∘ Panorama Image Generation
+
 
 ### Text-Guided Variational Image Generation \\for Industrial Anomaly Detection and Segmentation
 
