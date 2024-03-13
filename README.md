@@ -33,6 +33,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 # 1.图像生成(Image Generation/Image Synthesis)
 
+### Accelerating Diffusion Sampling with Optimized Time Steps
+
+- Paper: https://arxiv.org/abs/2402.17376
+- Code: https://github.com/scxue/DM-NonUniform
+
 ### Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion
 
 - Paper: https://arxiv.org/abs/2312.12471
@@ -265,6 +270,12 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2403.01807
 - Code: https://github.com/facebookresearch/ViewDiff
 
+### X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model
+
+- Paper: https://arxiv.org/abs/2312.02238
+- Code: https://github.com/showlab/X-Adapter
+
+
 <a name="2.图像编辑"></a>
 
 # 2.图像编辑(Image Editing)
@@ -319,6 +330,10 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2312.10113
 - Code: https://github.com/guoqincode/Focus-on-Your-Instruction
 
+### FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation
+- Paper: 
+- Code: https://github.com/williamyang1991/FRESCO/tree/main
+  
 ### Inversion-Free Image Editing with Natural Language
 
 - Paper: hhttps://arxiv.org/abs/2312.04965
@@ -451,6 +466,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2401.09050
 - Code: https://github.com/sail-sg/Consistent3D
 
+### DiffuScene: Scene Graph Denoising Diffusion Probabilistic Model for Generative Indoor Scene Synthesis
+- Paper: https://arxiv.org/abs/2303.14207
+- Code: https://github.com/tangjiapeng/DiffuScene
+
+
 ### DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models
 
 - Paper: https://arxiv.org/abs/2304.00916
@@ -520,6 +540,10 @@ Paper: https://arxiv.org/abs/2308.10997
 
 - Paper: https://arxiv.org/abs/2312.08885
 - Code: https://github.com/zqh0253/SceneWiz3D
+
+### SemCity: Semantic Scene Generation with Triplane Diffusion
+- Paper: https://arxiv.org/abs/2403.07773
+- Code: https://github.com/zoomin-lee/SemCity?tab=readme-ov-file
 
 ### Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior
 
@@ -631,11 +655,21 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2311.17982
 - Code: https://github.com/Vchitect/VBench
 
+### VideoChat: Chat-Centric Video Understanding
+- Paper: https://arxiv.org/abs/2305.06355
+- Code: https://github.com/OpenGVLab/Ask-Anything
+
 ### ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts
 
 - Paper: https://arxiv.org/abs/2312.00784
 - Code: https://github.com/mu-cai/ViP-LLaVA
 
+### ViT-Lens: Towards Omni-modal Representations
+
+- Paper: https://github.com/TencentARC/ViT-Lens
+- Code: https://arxiv.org/abs/2308.10185
+
+  
 <a name="8.其他"></a>
 
 # 8.其他多任务(Others)
