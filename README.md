@@ -39,7 +39,8 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Code: https://github.com/scxue/DM-NonUniform
 
 ### Adversarial Text to Continuous Image Generation
-
+- Paper: https://openreview.net/forum?id=9X3UZJSGIg9
+  
 ### Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder
 
 ### Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion
@@ -54,7 +55,8 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation
 - Paper: https://arxiv.org/abs/2311.15773
-- Code: 
+- Code:
+  
 ### Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis
 
 - Paper: https://arxiv.org/abs/2402.00627
@@ -158,7 +160,8 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Code: https://github.com/CodeGoat24/Face-diffuser?tab=readme-ov-file
 
 ### InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning
-
+- Paper: https://arxiv.org/abs/2304.03411
+  
 ### InstanceDiffusion: Instance-level Control for Image Generation
 
 - Paper: https://arxiv.org/abs/2402.03290
@@ -191,6 +194,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Learned representation-guided diffusion models for large-image generation
 - Paper: https://arxiv.org/abs/2312.07330
+  
 ### Learning Continuous 3D Words for Text-to-Image Generation
 
 - Paper: https://arxiv.org/abs/2402.08654
@@ -292,18 +296,25 @@ Paper: https://arxiv.org/abs/2308.10997
 ### Style Aligned Image Generation via Shared Attention
 - Paper: https://arxiv.org/abs/2312.02133
 - Code: https://github.com/google/style-aligned/
+  
 ### SVGDreamer: Text Guided SVG Generation with Diffusion Model
 
 - Paper: https://arxiv.org/abs/2312.16476
 - Code: https://github.com/ximinng/SVGDreamer
 
 ### Tailored Visions: Enhancing Text-to-Image Generation with Personalized Prompt Rewriting
-
+- Paper: https://arxiv.org/abs/2310.08129
+- Code: https://github.com/zzjchen/Tailored-Visions
+  
+### Tackling the Singularities at the Endpoints of Time Intervals in Diffusion Models
+- Paper: https://arxiv.org/abs/2403.08381
+- Code: https://github.com/PangzeCheung/SingDiffusion
+  
 ### Taming Stable Diffusion for Text to 360∘ Panorama Image Generation
 
 
-### Text-Guided Variational Image Generation \\for Industrial Anomaly Detection and Segmentation
-
+### Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation
+- Paper: https://arxiv.org/abs/2403.06247
 
 
 ### TFMQ-DM: Temporal Feature Maintenance Quantization for Diffusion Models
@@ -317,11 +328,13 @@ Paper: https://arxiv.org/abs/2308.10997
 - Code: https://github.com/mlpc-ucsd/TokenCompose
 
 ### Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation
-
+- Paper: https://arxiv.org/abs/2403.05239
+  
 ### Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning
 
 ### UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs
-
+- Paper: https://arxiv.org/abs/2311.09257
+  
 ### UniGS: Unified Representation for Image Generation and Segmentation
 
 - Paper: https://arxiv.org/abs/2312.01985
@@ -331,9 +344,11 @@ Paper: https://arxiv.org/abs/2308.10997
 
 - Paper: https://arxiv.org/abs/2403.01807
 - Code: https://github.com/facebookresearch/ViewDiff
+  
 ### When StyleGAN Meets Stable Diffusion: a 𝒲+ Adapter for Personalized Image Generation
 - Paper: https://arxiv.org/abs/2311.17461
 - Code: https://github.com/csxmli2016/w-plus-adapter
+  
 ### X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model
 
 - Paper: https://arxiv.org/abs/2312.02238
@@ -431,7 +446,7 @@ Paper: https://arxiv.org/abs/2308.10997
 ### Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer
 
 - Paper: https://arxiv.org/abs/2312.09008
-- Code: https://github.com/jiwoogit/Style-InDi
+- Code: https://github.com/jiwoogit/StyleID
 
 <a name="3.视频生成"></a>
 
