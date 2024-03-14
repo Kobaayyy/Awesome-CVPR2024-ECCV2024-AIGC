@@ -38,6 +38,10 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2402.17376
 - Code: https://github.com/scxue/DM-NonUniform
 
+### Adversarial Text to Continuous Image Generation
+
+### Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder
+
 ### Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion
 
 - Paper: https://arxiv.org/abs/2312.12471
@@ -48,20 +52,31 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2402.18078
 - Code: https://github.com/VamosC/CapHuman
 
+### Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation
+- Paper: https://arxiv.org/abs/2311.15773
+- Code: 
 ### Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis
 
 - Paper: https://arxiv.org/abs/2402.00627
 - Code: https://github.com/YanzuoLu/CFLD
 
-### EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models
+### CoDi: Conditional Diffusion Distillation for Higher-Fidelity and Faster Image Generation
 
-- Paper: https://arxiv.org/abs/2401.04608
-- Code: https://github.com/JingyuanYY/EmoGen
+- Paper: https://arxiv.org/abs/2310.01407
+- Code: https://github.com/fast-codi/CoDi
 
-### Enabling Multi-Concept Fusion in Text-to-Image Models
+### Condition-Aware Neural Network for Controlled Image Generation
 
-- Paper: 
+### Countering Personalized Text-to-Image Generation with Influence Watermarks
+
+### Cross Initialization for Personalized Text-to-Image Generation
+
+- Paper: https://arxiv.org/abs/2312.15905
 - Code: 
+
+### Customization Assistant for Text-to-image Generation
+- Paper: https://arxiv.org/abs/2312.03045
+
 
 ### DeepCache: Accelerating Diffusion Models for Free
 
@@ -95,6 +110,8 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2402.09812
 - Code: https://github.com/KU-CVLAB/DreamMatcher
 
+### Dynamic Prompt Optimizing for Text-to-Image Generation
+
 ### ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations
 
 - Paper: https://arxiv.org/abs/2312.04655
@@ -110,6 +127,22 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2311.18822
 - Code: https://github.com/MoayedHajiAli/ElasticDiffusion-official
 
+### EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models
+
+- Paper: https://arxiv.org/abs/2401.04608
+- Code: https://github.com/JingyuanYY/EmoGen
+
+### Enabling Multi-Concept Fusion in Text-to-Image Models
+
+- Paper: 
+- Code: 
+
+### Exact Fusion via Feature Distribution Matching for Few-shot Image Generation
+- Paper: 
+- Code: 
+
+### FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition
+
 ### Generative Unlearning for Any Identity
 
 - Paper: 
@@ -123,6 +156,8 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Paper: https://arxiv.org/abs/2311.10329
 - Code: https://github.com/CodeGoat24/Face-diffuser?tab=readme-ov-file
+
+### InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning
 
 ### InstanceDiffusion: Instance-level Control for Image Generation
 
@@ -144,15 +179,27 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2312.05849
 - Code: https://github.com/jiuntian/interactdiffusion
 
+### Intriguing Properties of Diffusion Models: An Empirical Study of the Natural Attack Capability in Text-to-Image Generative Models
+- Paper: https://arxiv.org/abs/2308.15692
+
 ### Inversion-Free Image Editing with Natural Language
 
 - Paper: https://arxiv.org/abs/2312.04965
 - Code: https://github.com/sled-group/InfEdit
 
+### JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation
+
+### Learned representation-guided diffusion models for large-image generation
+- Paper: https://arxiv.org/abs/2312.07330
 ### Learning Continuous 3D Words for Text-to-Image Generation
 
 - Paper: https://arxiv.org/abs/2402.08654
 - Code: https://github.com/ttchengab/continuous_3d_words_code/
+### Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation
+- Paper: https://arxiv.org/abs/2311.15841
+- Code:
+
+### Learning Multi-dimensional Human Preference for Text-to-Image Generation
 
 ### LeftRefill: Filling Right Canvas based on Left Reference through Generalized Text-to-Image Diffusion Model
 
@@ -174,6 +221,10 @@ Paper: https://arxiv.org/abs/2308.10997
 - Code: https://github.com/limuloo/MIGC
 
 ### MULAN: A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation
+
+### On the Scalability of Diffusion-based Text-to-Image Generation
+
+### Personalized Residuals for Concept-Driven Text-to-Image Generation
 
 ### PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding  
 
@@ -238,10 +289,15 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2312.01725
 - Code: https://github.com/rlawjdghek/StableVITON
 
+### Style Aligned Image Generation via Shared Attention
+- Paper: https://arxiv.org/abs/2312.02133
+- Code: https://github.com/google/style-aligned/
 ### SVGDreamer: Text Guided SVG Generation with Diffusion Model
 
 - Paper: https://arxiv.org/abs/2312.16476
 - Code: https://github.com/ximinng/SVGDreamer
+
+### Tailored Visions: Enhancing Text-to-Image Generation with Personalized Prompt Rewriting
 
 ### Taming Stable Diffusion for Text to 360∘ Panorama Image Generation
 
@@ -260,6 +316,12 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2312.03626
 - Code: https://github.com/mlpc-ucsd/TokenCompose
 
+### Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation
+
+### Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning
+
+### UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs
+
 ### UniGS: Unified Representation for Image Generation and Segmentation
 
 - Paper: https://arxiv.org/abs/2312.01985
@@ -269,7 +331,9 @@ Paper: https://arxiv.org/abs/2308.10997
 
 - Paper: https://arxiv.org/abs/2403.01807
 - Code: https://github.com/facebookresearch/ViewDiff
-
+### When StyleGAN Meets Stable Diffusion: a 𝒲+ Adapter for Personalized Image Generation
+- Paper: https://arxiv.org/abs/2311.17461
+- Code: https://github.com/csxmli2016/w-plus-adapter
 ### X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model
 
 - Paper: https://arxiv.org/abs/2312.02238
