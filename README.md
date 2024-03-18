@@ -528,6 +528,10 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2308.07926
 - Code: https://github.com/qiuyu96/CoDeF
 
+### RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models
+- Paper: https://arxiv.org/abs/2312.04524
+- Code: https://github.com/rehg-lab/RAVE
+  
 ### VidToMe: Video Token Merging for Zero-Shot Video Editing
 
 - Paper: https://arxiv.org/abs/2312.10656
@@ -567,10 +571,13 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2401.09050
 - Code: https://github.com/sail-sg/Consistent3D
 
+### DiffPortrait3D: Controllable Diffusion for Zero-Shot Portrait View Synthesis
+- Paper: https://arxiv.org/abs/2312.13016
+- Code: https://github.com/FreedomGu/DiffPortrait3D
+  
 ### DiffuScene: Scene Graph Denoising Diffusion Probabilistic Model for Generative Indoor Scene Synthesis
 - Paper: https://arxiv.org/abs/2303.14207
 - Code: https://github.com/tangjiapeng/DiffuScene
-
 
 ### DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models
 
@@ -651,6 +658,10 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2312.06655
 - Code: https://github.com/liuff19/Sherpa3D
 
+### Text-to-3D Generation with Bidirectional Diffusion using both 2D and 3D priors
+- Paper: https://arxiv.org/abs/2312.04963
+- Code: https://github.com/BiDiff/bidiff
+  
 ### Text-to-3D using Gaussian Splatting
 
 - Paper: https://arxiv.org/abs/2309.16585
