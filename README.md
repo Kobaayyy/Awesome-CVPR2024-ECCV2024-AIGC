@@ -90,6 +90,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2311.16973
 - Code: https://github.com/PRIS-CV/DemoFusion
 
+### DiffAgent: Fast and Accurate Text-to-Image API Selection with Large Language Model
+- Paper:
+- Code:https://github.com/OpenGVLab/DiffAgent
+
+  
 ### Diffusion-driven GAN Inversion for Multi-Modal Facial Image Generation
 
 ### DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models
@@ -293,6 +298,10 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2312.01725
 - Code: https://github.com/rlawjdghek/StableVITON
 
+### Structure-Guided Adversarial Training of Diffusion Models
+- Paper: https://arxiv.org/abs/2402.17563
+- Code: 
+
 ### Style Aligned Image Generation via Shared Attention
 - Paper: https://arxiv.org/abs/2312.02133
 - Code: https://github.com/google/style-aligned/
@@ -374,6 +383,10 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2311.18608
 - Code: https://github.com/HyelinNAM/ContrastiveDenoisingScore
 
+### DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations
+- Paper: https://arxiv.org/abs/2403.06951
+- Code: https://github.com/Tianhao-Qi/DEADiff_code
+  
 ### Deformable One-shot Face Stylization via DINO Semantic Guidance
 
 - Paper: https://arxiv.org/abs/2403.00459
@@ -389,6 +402,10 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2312.07409
 - Code: https://github.com/Kevin-thu/DiffMorpher
 
+### Diffusion Models Without Attention
+- Paper: https://arxiv.org/abs/2311.18257
+- Code: https://github.com/Kevin-thu/DiffMorpher
+  
 ### Doubly Abductive Counterfactual Inference for Text-based Image Editing
 
 - Paper: https://arxiv.org/abs/2403.02981
@@ -486,6 +503,11 @@ Paper: https://arxiv.org/abs/2308.10997
 
 - Paper: https://arxiv.org/abs/2311.17590
 - Code: https://github.com/ZiqiaoPeng/SyncTalk
+
+### Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
+
+- Paper: https://arxiv.org/abs/2212.11565
+- Code: https://github.com/showlab/Tune-A-Video
 
 ### VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models
 
@@ -694,6 +716,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2311.16922
 - Code: https://github.com/DAMO-NLP-SG/VCD
 
+### MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training
+
+- Paper: https://arxiv.org/abs/2311.17049
+- Code: https://github.com/apple/ml-mobileclip
+  
 ### OneLLM: One Framework to Align All Modalities with Language
 
 - Paper: https://arxiv.org/abs/2312.03700
