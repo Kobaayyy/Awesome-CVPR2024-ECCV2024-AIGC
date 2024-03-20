@@ -250,6 +250,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2305.16223
 - Code: https://github.com/SHI-Labs/Prompt-Free-Diffusion
 
+### Readout Guidance: Learning Control from Diffusion Features
+
+- Paper: https://arxiv.org/abs/2312.02150
+- Code: https://github.com/google-research/readout_guidance
+  
 ### Relation Rectification in Diffusion Model
 
 - Paper: 
@@ -474,6 +479,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2312.15770
 - Code: https://tf-t2v.github.io/
 
+### A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing
+
+- Paper: https://arxiv.org/abs/2312.05856
+- Code: https://github.com/STEM-Inv/stem-inv
+  
 ### DisCo: Disentangled Control for Realistic Human Dance Generation
 
 - Paper: https://arxiv.org/abs/2307.00040
@@ -561,6 +571,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2312.06663
 - Code: https://github.com/raywzy/CAD
 
+### CAGE: Controllable Articulation GEneration
+
+- Paper: https://arxiv.org/abs/2312.09570
+- Code: https://github.com/3dlg-hcvc/cage
+  
 ### CityDreamer: Compositional Generative Model of Unbounded 3D Cities
 
 - Paper: https://arxiv.org/abs/2309.00610
@@ -619,6 +634,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2312.15980
 - Code: https://github.com/byeongjun-park/HarmonyView
 
+### Holodeck: Language Guided Generation of 3D Embodied AI Environments
+
+- Paper: https://arxiv.org/abs/2312.09067
+- Code: https://github.com/allenai/Holodeck
+  
 ### MoMask: Generative Masked Modeling of 3D Human Motions
 
 - Paper: https://arxiv.org/abs/2312.00063
@@ -712,6 +732,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2312.14238
 - Code: https://github.com/OpenGVLab/InternVL
 
+### Let's Think Outside the Box: Exploring Leap-of-Thought in Large Language Models with Creative Humor Generation
+
+- Paper: https://arxiv.org/abs/2312.02439
+- Code: https://github.com/sail-sg/CLoT
+  
 ### LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge
 
 - Paper: https://arxiv.org/abs/2311.11860
@@ -762,6 +787,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2311.06783
 - Code: https://github.com/Q-Future/Q-Instruct
 
+### SC-Tune: Unleashing Self-Consistent Referential Comprehension in Large Vision Language Models
+
+- Paper: 
+- Code: https://github.com/ivattyue/SC-Tune
+  
 ### SEED-Bench: Benchmarking Multimodal Large Language Models
 
 - Paper: https://arxiv.org/abs/2311.17092
