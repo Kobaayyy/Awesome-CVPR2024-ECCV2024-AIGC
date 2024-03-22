@@ -104,7 +104,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Diversity-aware Channel Pruning for StyleGAN Compression
 
-- Paper: 
+- Paper: https://arxiv.org/abs/2403.13548
 - Code: https://github.com/jiwoogit/DCP-GAN
 
 ### Discriminative Probing and Tuning for Text-to-Image Generation
@@ -145,9 +145,15 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Code: 
 
 ### Exact Fusion via Feature Distribution Matching for Few-shot Image Generation
+
 - Paper: 
 - Code: 
 
+### Fast ODE-based Sampling for Diffusion Models in Around 5 Steps
+
+- Paper: https://arxiv.org/abs/2312.00094
+- Code: https://github.com/zju-pi/diff-sampler
+  
 ### FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition
 
 ### Generative Unlearning for Any Identity
@@ -196,6 +202,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Code: https://github.com/sled-group/InfEdit
 
 ### JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation
+
+### LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion
+
+- Paper: 
+- Code: https://github.com/PanchengZhao/LAKE-RED
 
 ### Learned representation-guided diffusion models for large-image generation
 - Paper: https://arxiv.org/abs/2312.07330
@@ -470,6 +481,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2312.09008
 - Code: https://github.com/jiwoogit/StyleID
 
+### UniHuman: A Unified Model For Editing Human Images in the Wild*
+
+- Paper: https://arxiv.org/abs/2312.14985
+- Code: https://github.com/NannanLi999/UniHuman
+
 <a name="3.视频生成"></a>
 
 # 3.视频生成(Video Generation/Video Synthesis)
@@ -519,6 +535,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2212.11565
 - Code: https://github.com/showlab/Tune-A-Video
 
+### VideoBooth: Diffusion-based Video Generation with Image Prompts
+
+- Paper: https://arxiv.org/abs/2312.00777
+- Code: https://github.com/Vchitect/VideoBooth
+  
 ### VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models
 
 - Paper: https://arxiv.org/abs/2401.09047
@@ -579,20 +600,31 @@ Paper: https://arxiv.org/abs/2308.10997
 ### CityDreamer: Compositional Generative Model of Unbounded 3D Cities
 
 - Paper: https://arxiv.org/abs/2309.00610
-- Code: https://github.com/kxhit/EscherNet
+- Code: https://github.com/hzxie/CityDreamer
 
 ### Consistent3D: Towards Consistent High-Fidelity Text-to-3D Generation with Deterministic Sampling Prior
 
-- Paper: https://arxiv.org/abs/2401.09050
+- Paper: https://arxiv.org/abs/2403.13667
 - Code: https://github.com/sail-sg/Consistent3D
+
+### DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance
+
+- Paper: https://arxiv.org/abs/2401.09050
+- Code: https://github.com/Carmenw1203/DanceCamera3D-Official
 
 ### DiffPortrait3D: Controllable Diffusion for Zero-Shot Portrait View Synthesis
 - Paper: https://arxiv.org/abs/2312.13016
 - Code: https://github.com/FreedomGu/DiffPortrait3D
   
 ### DiffuScene: Scene Graph Denoising Diffusion Probabilistic Model for Generative Indoor Scene Synthesis
+
 - Paper: https://arxiv.org/abs/2303.14207
 - Code: https://github.com/tangjiapeng/DiffuScene
+
+### Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features
+
+- Paper: https://arxiv.org/abs/2311.17024
+- Code: https://github.com/niladridutt/Diffusion-3D-Features
 
 ### DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models
 
@@ -712,6 +744,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2312.03818
 - Code: https://github.com/SunzeY/AlphaCLIP
 
+### Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters
+
+- Paper: https://arxiv.org/abs/2403.11549
+- Code: https://github.com/JiazuoYu/MoE-Adapters4CL
+  
 ### Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding
 
 - Paper: https://arxiv.org/abs/2311.08046
@@ -722,6 +759,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2311.17352
 - Code: https://github.com/ziplab/Stitched_LLaMA
 
+### GLaMM: Pixel Grounding Large Multimodal Model
+
+- Paper: https://arxiv.org/abs/2311.03356
+- Code: https://github.com/mbzuai-oryx/groundingLMM
+  
 ### GPT4Point: A Unified Framework for Point-Language Understanding and Generation
 
 - Paper: https://arxiv.org/abs/2312.02980
