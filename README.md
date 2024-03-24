@@ -39,8 +39,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Code: https://github.com/scxue/DM-NonUniform
 
 ### Adversarial Text to Continuous Image Generation
+
 - Paper: https://openreview.net/forum?id=9X3UZJSGIg9
-  
+
 ### Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder
 
 ### Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion
@@ -54,9 +55,10 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Code: https://github.com/VamosC/CapHuman
 
 ### Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation
+
 - Paper: https://arxiv.org/abs/2311.15773
 - Code:
-  
+
 ### Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis
 
 - Paper: https://arxiv.org/abs/2402.00627
@@ -77,6 +79,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Code: 
 
 ### Customization Assistant for Text-to-image Generation
+
 - Paper: https://arxiv.org/abs/2312.03045
 
 
@@ -91,10 +94,13 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Code: https://github.com/PRIS-CV/DemoFusion
 
 ### DiffAgent: Fast and Accurate Text-to-Image API Selection with Large Language Model
+
 - Paper:
+
 - Code:https://github.com/OpenGVLab/DiffAgent
 
   
+
 ### Diffusion-driven GAN Inversion for Multi-Modal Facial Image Generation
 
 ### DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models
@@ -153,7 +159,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Paper: https://arxiv.org/abs/2312.00094
 - Code: https://github.com/zju-pi/diff-sampler
-  
+
 ### FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition
 
 ### Generative Unlearning for Any Identity
@@ -171,8 +177,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Code: https://github.com/CodeGoat24/Face-diffuser?tab=readme-ov-file
 
 ### InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning
+
 - Paper: https://arxiv.org/abs/2304.03411
-  
+
 ### InstanceDiffusion: Instance-level Control for Image Generation
 
 - Paper: https://arxiv.org/abs/2402.03290
@@ -194,6 +201,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Code: https://github.com/jiuntian/interactdiffusion
 
 ### Intriguing Properties of Diffusion Models: An Empirical Study of the Natural Attack Capability in Text-to-Image Generative Models
+
 - Paper: https://arxiv.org/abs/2308.15692
 
 ### Inversion-Free Image Editing with Natural Language
@@ -209,13 +217,16 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Code: https://github.com/PanchengZhao/LAKE-RED
 
 ### Learned representation-guided diffusion models for large-image generation
+
 - Paper: https://arxiv.org/abs/2312.07330
-  
+
 ### Learning Continuous 3D Words for Text-to-Image Generation
 
 - Paper: https://arxiv.org/abs/2402.08654
 - Code: https://github.com/ttchengab/continuous_3d_words_code/
+
 ### Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation
+
 - Paper: https://arxiv.org/abs/2311.15841
 - Code:
 
@@ -265,7 +276,7 @@ Paper: https://arxiv.org/abs/2308.10997
 
 - Paper: https://arxiv.org/abs/2312.02150
 - Code: https://github.com/google-research/readout_guidance
-  
+
 ### Relation Rectification in Diffusion Model
 
 - Paper: 
@@ -315,30 +326,35 @@ Paper: https://arxiv.org/abs/2308.10997
 - Code: https://github.com/rlawjdghek/StableVITON
 
 ### Structure-Guided Adversarial Training of Diffusion Models
+
 - Paper: https://arxiv.org/abs/2402.17563
 - Code: 
 
 ### Style Aligned Image Generation via Shared Attention
+
 - Paper: https://arxiv.org/abs/2312.02133
 - Code: https://github.com/google/style-aligned/
-  
+
 ### SVGDreamer: Text Guided SVG Generation with Diffusion Model
 
 - Paper: https://arxiv.org/abs/2312.16476
 - Code: https://github.com/ximinng/SVGDreamer
 
 ### Tailored Visions: Enhancing Text-to-Image Generation with Personalized Prompt Rewriting
+
 - Paper: https://arxiv.org/abs/2310.08129
 - Code: https://github.com/zzjchen/Tailored-Visions
-  
+
 ### Tackling the Singularities at the Endpoints of Time Intervals in Diffusion Models
+
 - Paper: https://arxiv.org/abs/2403.08381
 - Code: https://github.com/PangzeCheung/SingDiffusion
-  
+
 ### Taming Stable Diffusion for Text to 360∘ Panorama Image Generation
 
 
 ### Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation
+
 - Paper: https://arxiv.org/abs/2403.06247
 
 
@@ -353,13 +369,15 @@ Paper: https://arxiv.org/abs/2308.10997
 - Code: https://github.com/mlpc-ucsd/TokenCompose
 
 ### Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation
+
 - Paper: https://arxiv.org/abs/2403.05239
-  
+
 ### Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning
 
 ### UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs
+
 - Paper: https://arxiv.org/abs/2311.09257
-  
+
 ### UniGS: Unified Representation for Image Generation and Segmentation
 
 - Paper: https://arxiv.org/abs/2312.01985
@@ -369,11 +387,12 @@ Paper: https://arxiv.org/abs/2308.10997
 
 - Paper: https://arxiv.org/abs/2403.01807
 - Code: https://github.com/facebookresearch/ViewDiff
-  
+
 ### When StyleGAN Meets Stable Diffusion: a 𝒲+ Adapter for Personalized Image Generation
+
 - Paper: https://arxiv.org/abs/2311.17461
 - Code: https://github.com/csxmli2016/w-plus-adapter
-  
+
 ### X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model
 
 - Paper: https://arxiv.org/abs/2312.02238
@@ -400,9 +419,10 @@ Paper: https://arxiv.org/abs/2308.10997
 - Code: https://github.com/HyelinNAM/ContrastiveDenoisingScore
 
 ### DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations
+
 - Paper: https://arxiv.org/abs/2403.06951
 - Code: https://github.com/Tianhao-Qi/DEADiff_code
-  
+
 ### Deformable One-shot Face Stylization via DINO Semantic Guidance
 
 - Paper: https://arxiv.org/abs/2403.00459
@@ -419,9 +439,10 @@ Paper: https://arxiv.org/abs/2308.10997
 - Code: https://github.com/Kevin-thu/DiffMorpher
 
 ### Diffusion Models Without Attention
+
 - Paper: https://arxiv.org/abs/2311.18257
 - Code: https://github.com/Kevin-thu/DiffMorpher
-  
+
 ### Doubly Abductive Counterfactual Inference for Text-based Image Editing
 
 - Paper: https://arxiv.org/abs/2403.02981
@@ -443,9 +464,10 @@ Paper: https://arxiv.org/abs/2308.10997
 - Code: https://github.com/guoqincode/Focus-on-Your-Instruction
 
 ### FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation
+
 - Paper: 
 - Code: https://github.com/williamyang1991/FRESCO/tree/main
-  
+
 ### Inversion-Free Image Editing with Natural Language
 
 - Paper: hhttps://arxiv.org/abs/2312.04965
@@ -490,20 +512,37 @@ Paper: https://arxiv.org/abs/2308.10997
 
 # 3.视频生成(Video Generation/Video Synthesis)
 
+### 360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model
+
+
+
 ### A Recipe for Scaling up Text-to-Video Generation with Text-free Videos
 
 - Paper: https://arxiv.org/abs/2312.15770
 - Code: https://tf-t2v.github.io/
 
-### A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing
+### Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model
 
-- Paper: https://arxiv.org/abs/2312.05856
-- Code: https://github.com/STEM-Inv/stem-inv
-  
+### Delving Deep into Diffusion Transformers for Image and Video Generation
+
+### DiffPerformer: Iterative Learning of Consistent Latent Guidance for Diffusion-based Human Video Generation
+
 ### DisCo: Disentangled Control for Realistic Human Dance Generation
 
 - Paper: https://arxiv.org/abs/2307.00040
 - Code: https://github.com/Wangt-CN/DisCo
+
+### FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Generation
+
+### Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models
+
+### Hierarchical Patch-wise Diffusion Models for High-Resolution Video Generation
+
+### Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation
+
+### LAMP: Learn A Motion Pattern for Few-Shot Video Generation
+
+### Lodge: A Coarse to Fine Diffusion Network for Long Dance Generation guided by the Characteristic Dance Primitives
 
 ### MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
 
@@ -515,15 +554,25 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2401.09414
 - Code: https://github.com/Vchitect/Vlogger
 
+### Make Pixels Dance: High-Dynamic Video Generation
+
+### MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation
+
 ### Panacea: Panoramic and Controllable Video Generation for Autonomous Driving
 
 - Paper: https://arxiv.org/abs/2311.16813
 - Code: https://github.com/wenyuqing/panacea
 
+### PEEKABOO: Interactive Video Generation via Masked-Diffusion
+
 ### Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners
 
 - Paper: https://arxiv.org/abs/2308.13712
 - Code: https://github.com/yzxing87/Seeing-and-Hearing
+
+### SimDA: Simple Diffusion Adapter for Efficient Video Generation
+
+### Simple but Effective Text-to-Video Generation with Grid Diffusion Models
 
 ### SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis
 
@@ -539,7 +588,7 @@ Paper: https://arxiv.org/abs/2308.10997
 
 - Paper: https://arxiv.org/abs/2312.00777
 - Code: https://github.com/Vchitect/VideoBooth
-  
+
 ### VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models
 
 - Paper: https://arxiv.org/abs/2401.09047
@@ -554,15 +603,21 @@ Paper: https://arxiv.org/abs/2308.10997
 
 # 4.视频编辑(Video Editing)
 
+### A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing
+
+- Paper: https://arxiv.org/abs/2312.05856
+- Code: https://github.com/STEM-Inv/stem-inv
+
 ### CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
 
 - Paper: https://arxiv.org/abs/2308.07926
 - Code: https://github.com/qiuyu96/CoDeF
 
 ### RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models
+
 - Paper: https://arxiv.org/abs/2312.04524
 - Code: https://github.com/rehg-lab/RAVE
-  
+
 ### VidToMe: Video Token Merging for Zero-Shot Video Editing
 
 - Paper: https://arxiv.org/abs/2312.10656
@@ -596,7 +651,7 @@ Paper: https://arxiv.org/abs/2308.10997
 
 - Paper: https://arxiv.org/abs/2312.09570
 - Code: https://github.com/3dlg-hcvc/cage
-  
+
 ### CityDreamer: Compositional Generative Model of Unbounded 3D Cities
 
 - Paper: https://arxiv.org/abs/2309.00610
@@ -607,15 +662,18 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2403.13667
 - Code: https://github.com/sail-sg/Consistent3D
 
+### ControlRoom3D: Room Generation using Semantic Controls
+
 ### DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance
 
 - Paper: https://arxiv.org/abs/2401.09050
 - Code: https://github.com/Carmenw1203/DanceCamera3D-Official
 
 ### DiffPortrait3D: Controllable Diffusion for Zero-Shot Portrait View Synthesis
+
 - Paper: https://arxiv.org/abs/2312.13016
 - Code: https://github.com/FreedomGu/DiffPortrait3D
-  
+
 ### DiffuScene: Scene Graph Denoising Diffusion Probabilistic Model for Generative Indoor Scene Synthesis
 
 - Paper: https://arxiv.org/abs/2303.14207
@@ -666,11 +724,17 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2312.15980
 - Code: https://github.com/byeongjun-park/HarmonyView
 
+### HIG: Hierarchical Interlacement Graph Approach to Scene Graph Generation in Video Understanding
+
 ### Holodeck: Language Guided Generation of 3D Embodied AI Environments
 
 - Paper: https://arxiv.org/abs/2312.09067
 - Code: https://github.com/allenai/Holodeck
-  
+
+### HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation
+
+### Interactive3D: Create What You Want by Interactive 3D Generation
+
 ### MoMask: Generative Masked Modeling of 3D Human Motions
 
 - Paper: https://arxiv.org/abs/2312.00063
@@ -680,6 +744,10 @@ Paper: https://arxiv.org/abs/2308.10997
 
 - Paper: https://arxiv.org/abs/2312.06725
 - Code: https://github.com/huanngzh/EpiDiff
+
+### OED: Towards One-stage End-to-End Dynamic Scene Graph Generation
+
+### One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion
 
 ### PEGASUS: Personalized Generative 3D Avatars with Composable Attributes
 
@@ -702,6 +770,7 @@ Paper: https://arxiv.org/abs/2308.10997
 - Code: https://github.com/zqh0253/SceneWiz3D
 
 ### SemCity: Semantic Scene Generation with Triplane Diffusion
+
 - Paper: https://arxiv.org/abs/2403.07773
 - Code: https://github.com/zoomin-lee/SemCity?tab=readme-ov-file
 
@@ -710,10 +779,15 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2312.06655
 - Code: https://github.com/liuff19/Sherpa3D
 
+### SIGNeRF: Scene Integrated Generation for Neural Radiance Fields
+
+### Single Mesh Diffusion Models with Field Latents for Texture Generation
+
 ### Text-to-3D Generation with Bidirectional Diffusion using both 2D and 3D priors
+
 - Paper: https://arxiv.org/abs/2312.04963
 - Code: https://github.com/BiDiff/bidiff
-  
+
 ### Text-to-3D using Gaussian Splatting
 
 - Paper: https://arxiv.org/abs/2309.16585
@@ -748,7 +822,7 @@ Paper: https://arxiv.org/abs/2308.10997
 
 - Paper: https://arxiv.org/abs/2403.11549
 - Code: https://github.com/JiazuoYu/MoE-Adapters4CL
-  
+
 ### Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding
 
 - Paper: https://arxiv.org/abs/2311.08046
@@ -763,7 +837,7 @@ Paper: https://arxiv.org/abs/2308.10997
 
 - Paper: https://arxiv.org/abs/2311.03356
 - Code: https://github.com/mbzuai-oryx/groundingLMM
-  
+
 ### GPT4Point: A Unified Framework for Point-Language Understanding and Generation
 
 - Paper: https://arxiv.org/abs/2312.02980
@@ -778,7 +852,7 @@ Paper: https://arxiv.org/abs/2308.10997
 
 - Paper: https://arxiv.org/abs/2312.02439
 - Code: https://github.com/sail-sg/CLoT
-  
+
 ### LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge
 
 - Paper: https://arxiv.org/abs/2311.11860
@@ -798,7 +872,7 @@ Paper: https://arxiv.org/abs/2308.10997
 
 - Paper: https://arxiv.org/abs/2311.17049
 - Code: https://github.com/apple/ml-mobileclip
-  
+
 ### OneLLM: One Framework to Align All Modalities with Language
 
 - Paper: https://arxiv.org/abs/2312.03700
@@ -833,7 +907,7 @@ Paper: https://arxiv.org/abs/2308.10997
 
 - Paper: 
 - Code: https://github.com/ivattyue/SC-Tune
-  
+
 ### SEED-Bench: Benchmarking Multimodal Large Language Models
 
 - Paper: https://arxiv.org/abs/2311.17092
@@ -845,6 +919,7 @@ Paper: https://arxiv.org/abs/2308.10997
 - Code: https://github.com/Vchitect/VBench
 
 ### VideoChat: Chat-Centric Video Understanding
+
 - Paper: https://arxiv.org/abs/2305.06355
 - Code: https://github.com/OpenGVLab/Ask-Anything
 
@@ -856,9 +931,11 @@ Paper: https://arxiv.org/abs/2308.10997
 ### ViT-Lens: Towards Omni-modal Representations
 
 - Paper: https://github.com/TencentARC/ViT-Lens
+
 - Code: https://arxiv.org/abs/2308.10185
 
   
+
 <a name="8.其他"></a>
 
 # 8.其他多任务(Others)
@@ -867,6 +944,8 @@ Paper: https://arxiv.org/abs/2308.10997
 
 - Paper: https://arxiv.org/abs/2401.17879
 - Code: https://github.com/jonasricker/aeroblade
+
+### Diff-BGM: A Diffusion Model for Video Background Music Generation
 
 ### EvalCrafter: Benchmarking and Evaluating Large Video Generation Models
 
