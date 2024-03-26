@@ -118,6 +118,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://www.arxiv.org/abs/2403.04321
 - Code: https://github.com/LgQu/DPT-T2I
 
+### Drag Your Noise: Interactive Point-based Editing via Diffusion Semantic Propagation
+
+- Paper: 
+- Code: https://github.com/haofengl/DragNoise
+  
 ### DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization
 
 - Paper: https://arxiv.org/abs/2402.09812
@@ -162,6 +167,14 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition
 
+- Paper: 
+- Code: https://github.com/aim-uofa/FreeCustom
+  
+### Generalizable Tumor Synthesis
+
+- Paper: https://www.cs.jhu.edu/~alanlab/Pubs24/chen2024towards.pdf
+- Code: https://github.com/MrGiovanni/DiffTumor
+  
 ### Generative Unlearning for Any Identity
 
 - Paper: 
@@ -320,6 +333,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2312.04410
 - Code: https://github.com/SHI-Labs/Smooth-Diffusion
 
+### SSR-Encoder: Encoding Selective Subject Representation for Subject-Driven Generation
+
+- Paper: https://arxiv.org/abs/2312.16272
+- Code: https://github.com/Xiaojiu-z/SSR_Encoder
+  
 ### StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On
 
 - Paper: https://arxiv.org/abs/2312.01725
@@ -574,6 +592,11 @@ Paper: https://arxiv.org/abs/2308.10997
 
 ### Simple but Effective Text-to-Video Generation with Grid Diffusion Models
 
+### StyleCineGAN: Landscape Cinemagraph Generation using a Pre-trained StyleGAN
+
+- Paper: https://arxiv.org/abs/2403.14186
+- Code: https://github.com/jeolpyeoni/StyleCineGAN
+  
 ### SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis
 
 - Paper: https://arxiv.org/abs/2311.17590
@@ -737,8 +760,13 @@ Paper: https://arxiv.org/abs/2308.10997
 
 ### MoMask: Generative Masked Modeling of 3D Human Motions
 
-- Paper: https://arxiv.org/abs/2312.00063
+- Paper: https://arxiv.org/abs/2402.05746
 - Code: https://github.com/EricGuo5513/momask-codes
+
+### Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration
+
+- Paper: https://arxiv.org/abs/2312.00063
+- Code: https://github.com/yifanlu0227/ChatSim?tab=readme-ov-file
 
 ### EpiDiff: Enhancing Multi-View Synthesis via Localized Epipolar-Constrained Diffusion
 
