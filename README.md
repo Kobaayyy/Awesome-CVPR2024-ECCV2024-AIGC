@@ -491,11 +491,6 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2312.10113
 - Code: https://github.com/guoqincode/Focus-on-Your-Instruction
 
-### FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation
-
-- Paper: 
-- Code: https://github.com/williamyang1991/FRESCO/tree/main
-
 ### Inversion-Free Image Editing with Natural Language
 
 - Paper: hhttps://arxiv.org/abs/2312.04965
@@ -650,7 +645,12 @@ Paper: https://arxiv.org/abs/2308.10997
 
 - Paper: https://arxiv.org/abs/2308.07926
 - Code: https://github.com/qiuyu96/CoDeF
+  
+### FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation
 
+- Paper: 
+- Code: https://github.com/williamyang1991/FRESCO/tree/main
+  
 ### RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models
 
 - Paper: https://arxiv.org/abs/2312.04524
