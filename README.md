@@ -42,6 +42,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Paper: https://openreview.net/forum?id=9X3UZJSGIg9
 
+### Amodal Completion via Progressive Mixed Context Diffusion
+
+- Paper: https://arxiv.org/abs/2312.15540
+- Code: https://github.com/k8xu/amodal
+  
 ### Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder
 
 ### Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion
@@ -165,6 +170,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2312.00094
 - Code: https://github.com/zju-pi/diff-sampler
 
+### FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition
+
+- Paper: https://arxiv.org/abs/2312.07536
+- Code: https://github.com/genforce/freecontrol
+  
 ### FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition
 
 - Paper: 
@@ -521,6 +531,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2312.09008
 - Code: https://github.com/jiwoogit/StyleID
 
+### Text-Driven Image Editing via Learnable Regions
+
+- Paper: https://arxiv.org/abs/2311.16432
+- Code: https://github.com/yuanze-lin/Learnable_Regions
+
 ### UniHuman: A Unified Model For Editing Human Images in the Wild*
 
 - Paper: https://arxiv.org/abs/2312.14985
@@ -722,6 +737,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2312.06439
 - Code: https://github.com/tyhuang0428/DreamControl
 
+### Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion
+
+- Paper: https://arxiv.org/abs/2312.04466
+- Code: https://github.com/kiranchhatre/amuse
+
 ### EscherNet: A Generative Model for Scalable View Synthesis
 
 - Paper: https://arxiv.org/abs/2402.03908
@@ -758,6 +778,21 @@ Paper: https://arxiv.org/abs/2308.10997
 
 ### Interactive3D: Create What You Want by Interactive 3D Generation
 
+### InterHandGen: Two-Hand Interaction Generation via Cascaded Reverse Diffusio
+
+- Paper: https://arxiv.org/abs/2403.17422
+- Code: https://github.com/jyunlee/InterHandGen
+  
+### Intrinsic Image Diffusion for Single-view Material Estimation
+
+- Paper: https://arxiv.org/abs/2312.12274
+- Code: https://github.com/Peter-Kocsis/IntrinsicImageDiffusion
+
+### Make-It-Vivid: Dressing Your Animatable Biped Cartoon Characters from Text
+
+- Paper: https://arxiv.org/abs/2403.16897
+- Code: https://github.com/junshutang/Make-It-Vivid
+  
 ### MoMask: Generative Masked Modeling of 3D Human Motions
 
 - Paper: https://arxiv.org/abs/2402.05746
