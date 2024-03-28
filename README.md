@@ -315,6 +315,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2401.09603
 - Code: https://github.com/google-research/google-research/tree/master/cmmd
 
+### Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation
+
+- Paper: https://arxiv.org/abs/2311.13602
+- Code: https://github.com/CyberAgentAILab/RALF
+
 ### Rich Human Feedback for Text-to-Image Generation
 
 - Paper: https://arxiv.org/abs/2312.10240
@@ -531,7 +536,7 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2311.16432
 - Code: https://github.com/yuanze-lin/Learnable_Regions
 
-### UniHuman: A Unified Model For Editing Human Images in the Wild*
+### UniHuman: A Unified Model For Editing Human Images in the Wild
 
 - Paper: https://arxiv.org/abs/2312.14985
 - Code: https://github.com/NannanLi999/UniHuman
@@ -856,6 +861,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2309.16585
 - Code: https://github.com/gsgen3d/gsgen
 
+### Towards Realistic Scene Generation with LiDAR Diffusion Models
+
+- Paper: 
+- Code: https://github.com/hancyran/LiDAR-Diffusion
+
 ### ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models
 
 - Paper: https://arxiv.org/abs/2312.01305
@@ -870,6 +880,11 @@ Paper: https://arxiv.org/abs/2308.10997
 
 - Paper: https://arxiv.org/abs/2311.14521
 - Code: https://github.com/buaacyw/GaussianEditor
+
+### Makeup Prior Models for 3D Facial Makeup Estimation and Applications
+
+- Paper: https://arxiv.org/abs/2403.17761
+- Code: https://github.com/YangXingchao/makeup-priors
 
 
 <a name="7.大语言模型"></a>
@@ -890,6 +905,11 @@ Paper: https://arxiv.org/abs/2308.10997
 
 - Paper: https://arxiv.org/abs/2311.08046
 - Code: https://github.com/PKU-YuanGroup/Chat-UniVi
+
+### Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models
+
+- Paper: https://arxiv.org/abs/2403.17589
+- Code: https://github.com/YBZh/DMN
 
 ### Efficient Stitchable Task Adaptation
 
