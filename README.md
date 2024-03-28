@@ -822,6 +822,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2402.10636
 - Code: https://github.com/snuvclab/pegasus
 
+### PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics
+
+- Paper: https://arxiv.org/abs/2311.12198
+- Code: https://github.com/XPandora/PhysGaussian
+
 ### RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D.
 
 - Paper: https://arxiv.org/abs/2311.16918
@@ -901,6 +906,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2403.11549
 - Code: https://github.com/JiazuoYu/MoE-Adapters4CL
 
+### Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction
+
+- Paper: https://arxiv.org/abs/2403.18447
+- Code: https://github.com/InhwanBae/LMTrajectory
+  
 ### Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding
 
 - Paper: https://arxiv.org/abs/2311.08046
@@ -916,6 +926,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2311.17352
 - Code: https://github.com/ziplab/Stitched_LLaMA
 
+### Generative Multimodal Models are In-Context Learners
+
+- Paper: https://arxiv.org/abs/2312.13286
+- Code: https://github.com/baaivision/Emu/tree/main/Emu2
+  
 ### GLaMM: Pixel Grounding Large Multimodal Model
 
 - Paper: https://arxiv.org/abs/2311.03356
