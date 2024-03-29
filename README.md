@@ -385,6 +385,10 @@ Paper: https://arxiv.org/abs/2308.10997
 
 ### Taming Stable Diffusion for Text to 360∘ Panorama Image Generation
 
+### TextCraftor: Your Text Encoder Can be Image Quality Controller
+
+- Paper: https://arxiv.org/abs/2403.18978
+- Code: 
 
 ### Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation
 
@@ -582,6 +586,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2311.16498
 - Code: https://github.com/magic-research/magic-animate
 
+### Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework
+
+- Paper: https://arxiv.org/abs/2403.16510
+- Code: https://github.com/ICTMCG/Make-Your-Anchor
+
 ### Make Your Dream A Vlog
 
 - Paper: https://arxiv.org/abs/2401.09414
@@ -646,6 +655,11 @@ Paper: https://arxiv.org/abs/2308.10997
 
 - Paper: 
 - Code: https://github.com/zhangguiwei610/CAMEL
+
+### CCEdit: Creative and Controllable Video Editing via Diffusion Models
+
+- Paper: https://arxiv.org/abs/2309.16496
+- Code: https://github.com/RuoyuFeng/CCEdit
   
 ### CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
 
@@ -872,6 +886,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2309.16585
 - Code: https://github.com/gsgen3d/gsgen
 
+### Tiger: Time-Varying Denoising Model for 3D Point Cloud Generation with Diffusion Process
+
+- Paper: 
+- Code: https://github.com/Zhiyuan-R/Tiger-Diffusion
+  
 ### Towards Realistic Scene Generation with LiDAR Diffusion Models
 
 - Paper: 
@@ -1019,13 +1038,18 @@ Paper: https://arxiv.org/abs/2308.10997
 
 ### SC-Tune: Unleashing Self-Consistent Referential Comprehension in Large Vision Language Models
 
-- Paper: 
+- Paper: https://arxiv.org/abs/2403.13263
 - Code: https://github.com/ivattyue/SC-Tune
 
 ### SEED-Bench: Benchmarking Multimodal Large Language Models
 
 - Paper: https://arxiv.org/abs/2311.17092
 - Code: https://github.com/AILab-CVC/SEED-Bench
+
+### UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All
+
+- Paper: https://arxiv.org/abs/2403.12532
+- Code: 
 
 ### VBench: Comprehensive Benchmark Suite for Video Generative Models
 
