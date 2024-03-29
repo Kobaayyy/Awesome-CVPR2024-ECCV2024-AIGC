@@ -632,10 +632,6 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2401.09047
 - Code: https://github.com/AILab-CVC/VideoCrafter
 
-### VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models
-
-- Paper: https://arxiv.org/abs/2312.00845
-- Code: https://github.com/HyeonHo99/Video-Motion-Customization
 
 <a name="4.视频编辑"></a>
 
@@ -646,6 +642,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2312.05856
 - Code: https://github.com/STEM-Inv/stem-inv
 
+### CAMEL: Causal Motion Enhancement tailored for lifting text-driven video editing
+
+- Paper: 
+- Code: https://github.com/zhangguiwei610/CAMEL
+  
 ### CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
 
 - Paper: https://arxiv.org/abs/2308.07926
@@ -717,7 +718,7 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2312.13016
 - Code: https://github.com/FreedomGu/DiffPortrait3D
 
-### DiffuScene: Scene Graph Denoising Diffusion Probabilistic Model for Generative Indoor Scene Synthesis
+### DiffuScene: Denoising Diffusion Models for Generative Indoor Scene Synthesis
 
 - Paper: https://arxiv.org/abs/2303.14207
 - Code: https://github.com/tangjiapeng/DiffuScene
@@ -856,6 +857,11 @@ Paper: https://arxiv.org/abs/2308.10997
 
 ### Single Mesh Diffusion Models with Field Latents for Texture Generation
 
+### SPAD : Spatially Aware Multiview Diffusers
+
+- Paper: https://arxiv.org/abs/2402.05235
+- Code: https://github.com/yashkant/spad
+  
 ### Text-to-3D Generation with Bidirectional Diffusion using both 2D and 3D priors
 
 - Paper: https://arxiv.org/abs/2312.04963
@@ -916,6 +922,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2311.08046
 - Code: https://github.com/PKU-YuanGroup/Chat-UniVi
 
+### Compositional Chain-of-Thought Prompting for Large Multimodal Models
+
+- Paper: https://arxiv.org/abs/2311.17076
+- Code: https://github.com/chancharikmitra/CCoT
+
 ### Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models
 
 - Paper: https://arxiv.org/abs/2403.17589
@@ -926,6 +937,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2311.17352
 - Code: https://github.com/ziplab/Stitched_LLaMA
 
+### Efficient Test-Time Adaptation of Vision-Language Models
+
+- Paper: https://github.com/kdiAAA/TDA
+- Code: https://arxiv.org/abs/2403.18293
+  
 ### Generative Multimodal Models are In-Context Learners
 
 - Paper: https://arxiv.org/abs/2312.13286
