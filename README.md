@@ -104,8 +104,6 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Code:https://github.com/OpenGVLab/DiffAgent
 
-  
-
 ### Diffusion-driven GAN Inversion for Multi-Modal Facial Image Generation
 
 ### DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models
@@ -165,6 +163,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: 
 - Code: 
 
+### FaceChain-SuDe: Building Derived Class to Inherit Category Attributes for One-shot Subject-Driven Generation
+
+- Paper: https://arxiv.org/abs/2403.06775
+- Code:
+  
 ### Fast ODE-based Sampling for Diffusion Models in Around 5 Steps
 
 - Paper: https://arxiv.org/abs/2312.00094
@@ -267,7 +270,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### MarkovGen: Structured Prediction for Efficient Text-to-Image Generation
 
-Paper: https://arxiv.org/abs/2308.10997
+- Paper: https://arxiv.org/abs/2308.10997
+
+### MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant
+
+- Paper: https://arxiv.org/abs/2403.04290
 
 ### MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis
 
@@ -1006,6 +1013,11 @@ Paper: https://arxiv.org/abs/2308.10997
 - Paper: https://arxiv.org/abs/2311.17049
 - Code: https://github.com/apple/ml-mobileclip
 
+### MoPE-CLIP: Structured Pruning for Efficient Vision-Language Models with Module-wise Pruning Error Metric
+
+- Paper: https://arxiv.org/abs/2403.07839
+- Code: 
+  
 ### OneLLM: One Framework to Align All Modalities with Language
 
 - Paper: https://arxiv.org/abs/2312.03700
