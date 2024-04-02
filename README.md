@@ -49,6 +49,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
   
 ### Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder
 
+- Paper: https://arxiv.org/abs/2403.10255
+- Code: 
+  
 ### Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion
 
 - Paper: https://arxiv.org/abs/2312.12471
@@ -97,7 +100,12 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Paper: https://arxiv.org/abs/2311.16973
 - Code: https://github.com/PRIS-CV/DemoFusion
+  
+ ### Desigen: A Pipeline for Controllable Design Template Generation
 
+- Paper: https://arxiv.org/abs/2403.09093
+- Code: https://github.com/whaohan/desigen
+  
 ### DiffAgent: Fast and Accurate Text-to-Image API Selection with Large Language Model
 
 - Paper:
@@ -588,6 +596,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Lodge: A Coarse to Fine Diffusion Network for Long Dance Generation guided by the Characteristic Dance Primitives
 
+- Paper: https://arxiv.org/abs/2403.10518
+- Code: https://github.com/li-ronghui/LODGE
+  
 ### MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
 
 - Paper: https://arxiv.org/abs/2311.16498
