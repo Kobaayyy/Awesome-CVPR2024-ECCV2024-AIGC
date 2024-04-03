@@ -62,6 +62,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2402.18078
 - Code: https://github.com/VamosC/CapHuman
 
+### CHAIN: Enhancing Generalization in Data-Efficient GANs via lipsCHitz continuity constrAIned Normalization
+
+- Paper: https://arxiv.org/abs/2404.00521
+- Code: 
+
 ### Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation
 
 - Paper: https://arxiv.org/abs/2311.15773
@@ -78,6 +83,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Code: https://github.com/fast-codi/CoDi
 
 ### Condition-Aware Neural Network for Controlled Image Generation
+
+### CosmicMan: A Text-to-Image Foundation Model for Humans
+
+- Paper: https://arxiv.org/abs/2404.01294
+- Code: https://github.com/cosmicman-cvpr2024/CosmicMan
 
 ### Countering Personalized Text-to-Image Generation with Influence Watermarks
 
@@ -515,6 +525,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2312.10113
 - Code: https://github.com/guoqincode/Focus-on-Your-Instruction
 
+### Holo-Relighting: Controllable Volumetric Portrait Relighting from a Single Image
+
+- Paper: https://arxiv.org/abs/2403.09632
+- Code: https://github.com/guoqincode/Focus-on-Your-Instruction
+
 ### Inversion-Free Image Editing with Natural Language
 
 - Paper: hhttps://arxiv.org/abs/2312.04965
@@ -540,6 +555,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2307.04684
 - Code: https://github.com/LPengYang/FreeDrag
 
+### RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization
+
+- Paper: https://arxiv.org/abs/2403.00483
+- Code: 
+
 ### SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models
 
 - Paper: https://arxiv.org/abs/2312.06739
@@ -549,6 +569,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Paper: https://arxiv.org/abs/2312.09008
 - Code: https://github.com/jiwoogit/StyleID
+
+### SwitchLight: Co-design of Physics-driven Architecture and Pre-training Framework for Human Portrait Relighting
+
+- Paper: https://arxiv.org/abs/2402.18848
+- Code: 
 
 ### Text-Driven Image Editing via Learnable Regions
 
@@ -566,8 +591,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### 360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model
 
-
-
+- Paper: https://arxiv.org/abs/2401.06578
+- Code: https://github.com/Akaneqwq/360DVD
+  
 ### A Recipe for Scaling up Text-to-Video Generation with Text-free Videos
 
 - Paper: https://arxiv.org/abs/2312.15770
@@ -1028,12 +1054,17 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Paper: https://arxiv.org/abs/2403.07839
 - Code: 
-  
+
 ### OneLLM: One Framework to Align All Modalities with Language
 
 - Paper: https://arxiv.org/abs/2312.03700
 - Code: https://github.com/csuhan/OneLLM
 
+### One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models
+
+- Paper: https://arxiv.org/abs/2403.01849
+- Code: https://github.com/TreeLLi/APT
+  
 ### OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation
 
 - Paper: https://arxiv.org/abs/2402.19479
