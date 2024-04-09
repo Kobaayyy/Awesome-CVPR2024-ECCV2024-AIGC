@@ -220,6 +220,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2311.10329
 - Code: https://github.com/CodeGoat24/Face-diffuser?tab=readme-ov-file
 
+### InitNO: Boosting Text-to-Image Diffusion Models via Initial Noise Optimization
+
+- Paper: 
+- Code: https://github.com/xiefan-guo/initno
+
 ### InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning
 
 - Paper: https://arxiv.org/abs/2304.03411
@@ -445,6 +450,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2312.01985
 - Code: https://github.com/qqlu/Entity
 
+### Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model
+
+- Paper: https://arxiv.org/abs/2311.13231
+- Code: https://github.com/yk7333/d3po
+
 ### ViewDiff: 3D-Consistent Image Generation with Text-To-Image Models
 
 - Paper: https://arxiv.org/abs/2403.01807
@@ -499,6 +509,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Paper: https://arxiv.org/abs/2312.07409
 - Code: https://github.com/Kevin-thu/DiffMorpher
+
+### DiffusionLight: Light Probes for Free by Painting a Chrome Ball
+
+- Paper: https://arxiv.org/abs/2312.09168
+- Code: https://github.com/DiffusionLight/DiffusionLight
 
 ### Diffusion Models Without Attention
 
@@ -786,6 +801,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2311.17024
 - Code: https://github.com/niladridutt/Diffusion-3D-Features
 
+### Diffusion Time-step Curriculum for One Image to 3D Generation
+
+- Paper: https://arxiv.org/abs/2311.17024
+- Code: https://github.com/yxymessi/DTC123
+
 ### DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models
 
 - Paper: https://arxiv.org/abs/2304.00916
@@ -875,6 +895,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### OED: Towards One-stage End-to-End Dynamic Scene Graph Generation
 
 ### One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion
+
+### Paint-it: Text-to-Texture Synthesis via Deep Convolutional Texture Map Optimization and Physically-Based Rendering
+
+- Paper: https://github.com/postech-ami/Paint-it
+- Code: https://arxiv.org/abs/2312.11360
 
 ### PEGASUS: Personalized Generative 3D Avatars with Composable Attributes
 
@@ -1002,8 +1027,13 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Efficient Test-Time Adaptation of Vision-Language Models
 
-- Paper: https://github.com/kdiAAA/TDA
-- Code: https://arxiv.org/abs/2403.18293
+- Paper: https://arxiv.org/abs/2403.18293
+- Code: https://github.com/kdiAAA/TDA
+
+### FairCLIP: Harnessing Fairness in Vision-Language Learning
+
+- Paper: https://arxiv.org/abs/2403.19949
+- Code: https://github.com/Harvard-Ophthalmology-AI-Lab/FairCLIP
   
 ### Generative Multimodal Models are In-Context Learners
 
@@ -1120,10 +1150,14 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2312.00784
 - Code: https://github.com/mu-cai/ViP-LLaVA
 
+### ViTamin: Designing Scalable Vision Models in the Vision-language Era
+
+- Paper: https://arxiv.org/abs/2404.02132
+- Code: https://github.com/Beckschen/ViTamin
+
 ### ViT-Lens: Towards Omni-modal Representations
 
 - Paper: https://github.com/TencentARC/ViT-Lens
-
 - Code: https://arxiv.org/abs/2308.10185
 
   
