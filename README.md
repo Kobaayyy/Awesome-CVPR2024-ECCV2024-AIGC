@@ -151,6 +151,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Dynamic Prompt Optimizing for Text-to-Image Generation
 
+- Paper: https://arxiv.org/abs/2404.04095
+- Code: https://github.com/Mowenyii/PAE
+  
 ### ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations
 
 - Paper: https://arxiv.org/abs/2312.04655
@@ -324,6 +327,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Paper: https://arxiv.org/abs/2305.16223
 - Code: https://github.com/SHI-Labs/Prompt-Free-Diffusion
+
+### Taming Text-to-Image Diffusion for Accurate Prompt Following
+
+- Paper: https://arxiv.org/abs/2311.17002
+- Code: https://github.com/ali-vilab/Ranni
 
 ### Readout Guidance: Learning Control from Diffusion Features
 
@@ -612,7 +620,12 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### A Recipe for Scaling up Text-to-Video Generation with Text-free Videos
 
 - Paper: https://arxiv.org/abs/2312.15770
-- Code: https://tf-t2v.github.io/
+- Code: https://github.com/ali-vilab/VGen
+
+### BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models
+
+- Paper: https://arxiv.org/abs/2312.02813
+- Code: https://github.com/MCG-NJU/BIVDiff
 
 ### Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model
 
@@ -1015,6 +1028,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2311.17076
 - Code: https://github.com/chancharikmitra/CCoT
 
+### Describing Differences in Image Sets with Natural Language
+
+- Paper: https://arxiv.org/abs/2312.02974
+- Code: https://github.com/Understanding-Visual-Datasets/VisDiff
+
 ### Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models
 
 - Paper: https://arxiv.org/abs/2403.17589
@@ -1129,6 +1147,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Paper: https://arxiv.org/abs/2311.17092
 - Code: https://github.com/AILab-CVC/SEED-Bench
+
+### The Manga Whisperer: Automatically Generating Transcriptions for Comics
+
+- Paper: https://arxiv.org/abs/2401.10224
+- Code: https://github.com/ragavsachdeva/magi
 
 ### UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All
 
