@@ -8,7 +8,7 @@ A Collection of Papers and Codes for CVPR2024 AIGC
 
 **Please feel free to star, fork or PR if helpful~**
 
-**参考或转载请注明出处**
+# **参考或转载请注明出处**
 
 CVPR2024官网：[https://cvpr.thecvf.com/Conferences/2024](https://cvpr.thecvf.com/Conferences/2024)
 
@@ -57,6 +57,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2312.12471
 - Code: https://github.com/zkawfanx/Atlantis
 
+### Attention Calibration for Disentangled Text-to-Image Personalization
+
+- Paper: https://arxiv.org/abs/2403.18551
+- Code: https://github.com/Monalissaa/DisenDiff
+  
 ### CapHuman: Capture Your Moments in Parallel Universes
 
 - Paper: https://arxiv.org/abs/2402.18078
@@ -118,8 +123,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
   
 ### DiffAgent: Fast and Accurate Text-to-Image API Selection with Large Language Model
 
-- Paper:
-
+- Paper: https://arxiv.org/abs/2404.01342
 - Code:https://github.com/OpenGVLab/DiffAgent
 
 ### Diffusion-driven GAN Inversion for Multi-Modal Facial Image Generation
@@ -375,6 +379,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation
 
 - Paper: https://arxiv.org/abs/2311.17216
+- Code: https://github.com/hangligit/InterpretDiffusion
 
 ### Shadow Generation for Composite Image Using Diffusion Model
 
@@ -508,6 +513,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2403.00459
 - Code: https://github.com/zichongc/DoesFS
 
+### DemoCaricature: Democratising Caricature Generation with a Rough Sketch
+
+- Paper: https://arxiv.org/abs/2312.04364
+- Code: https://github.com/ChenDarYen/DemoCaricature
+  
 ### DiffAM: Diffusion-based Adversarial Makeup Transfer for Facial Privacy Protection
 
 - Paper: 
@@ -713,7 +723,12 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2401.09047
 - Code: https://github.com/AILab-CVC/VideoCrafter
 
+### Video-P2P: Video Editing with Cross-attention Control
 
+- Paper: https://arxiv.org/abs/2303.04761
+- Code: https://github.com/dvlab-research/Video-P2P
+
+  
 <a name="4.视频编辑"></a>
 
 # 4.视频编辑(Video Editing)
@@ -761,6 +776,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 <a name="5.3D生成"></a>
 
 # 5.3D生成(3D Generation/3D Synthesis)
+
+### 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
+
+- Paper: https://arxiv.org/abs/2310.08528
+- Code: https://github.com/hustvl/4DGaussians
 
 ### Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling
 
@@ -977,6 +997,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Paper: 
 - Code: https://github.com/hancyran/LiDAR-Diffusion
+
+### UDiFF: Generating Conditional Unsigned Distance Fields with Optimal Wavelet Diffusion
+
+- Paper: https://arxiv.org/abs/2404.06851
+- Code: https://github.com/weiqi-zhang/UDiFF
 
 ### ViVid-1-to-3: Novel View Synthesis with Video Diffusion Models
 
