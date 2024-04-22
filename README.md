@@ -311,10 +311,18 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2402.05408
 - Code: https://github.com/limuloo/MIGC
 
+### MindBridge: A Cross-Subject Brain Decoding Framework
+
+- Paper: https://arxiv.org/abs/2404.07850
+- Code: https://github.com/littlepure2333/MindBridge
+
 ### MULAN: A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation
 
 ### On the Scalability of Diffusion-based Text-to-Image Generation
 
+- Paper: https://arxiv.org/abs/2404.02883
+- Code:
+  
 ### Personalized Residuals for Concept-Driven Text-to-Image Generation
 
 ### PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding  
@@ -451,6 +459,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation
 
 - Paper: https://arxiv.org/abs/2403.05239
+
+### Towards Memorization-Free Diffusion Models
+
+- Paper: https://arxiv.org/abs/2404.00922
+- Code: 
 
 ### Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning
 
@@ -639,6 +652,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model
 
+- Paper: https://arxiv.org/abs/2404.01862
+- Code: https://github.com/thuhcsi/S2G-MDDiffusion
+  
 ### Delving Deep into Diffusion Transformers for Image and Video Generation
 
 ### DiffPerformer: Iterative Learning of Consistent Latent Guidance for Diffusion-based Human Video Generation
@@ -824,6 +840,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2312.13016
 - Code: https://github.com/FreedomGu/DiffPortrait3D
 
+### DiffSHEG: A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation
+
+- Paper: https://arxiv.org/abs/2401.04747
+- Code: https://github.com/JeremyCJM/DiffSHEG
+  
 ### DiffuScene: Denoising Diffusion Models for Generative Indoor Scene Synthesis
 
 - Paper: https://arxiv.org/abs/2303.14207
@@ -1018,6 +1039,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2311.14521
 - Code: https://github.com/buaacyw/GaussianEditor
 
+### GenN2N: Generative NeRF2NeRF Translation
+
+- Paper: https://arxiv.org/abs/2404.02788
+- Code: https://github.com/Lxiangyue/GenN2N
+
 ### Makeup Prior Models for 3D Facial Makeup Estimation and Applications
 
 - Paper: https://arxiv.org/abs/2403.17761
@@ -1033,6 +1059,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2312.03818
 - Code: https://github.com/SunzeY/AlphaCLIP
 
+### Anchor-based Robust Finetuning of Vision-Language Models
+
+- Paper: https://arxiv.org/abs/2404.06244
+- Code:
+  
 ### Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters
 
 - Paper: https://arxiv.org/abs/2403.11549
@@ -1098,6 +1129,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2312.14238
 - Code: https://github.com/OpenGVLab/InternVL
 
+### Learning by Correction: Efficient Tuning Task for Zero-Shot Generative Vision-Language Reasoning
+
+- Paper: https://arxiv.org/abs/2404.00909
+- Code:
+  
 ### Let's Think Outside the Box: Exploring Leap-of-Thought in Large Language Models with Creative Humor Generation
 
 - Paper: https://arxiv.org/abs/2312.02439
@@ -1153,6 +1189,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2312.02228
 - Code: https://github.com/MaverickRen/PixelLM
 
+### PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization
+
+- Paper: https://arxiv.org/abs/2404.09011
+- Code:
+  
 ### Prompt Highlighter: Interactive Control for Multi-Modal LLMs
 
 - Paper: https://arxiv.org/abs/2312.04302
@@ -1173,6 +1214,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2311.17092
 - Code: https://github.com/AILab-CVC/SEED-Bench
 
+### SyncMask: Synchronized Attentional Masking for Fashion-centric Vision-Language Pretraining
+
+- Paper: https://arxiv.org/abs/2404.01156
+- Code:
+  
 ### The Manga Whisperer: Automatically Generating Transcriptions for Comics
 
 - Paper: https://arxiv.org/abs/2401.10224
@@ -1226,6 +1272,10 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2310.11440
 - Code: https://github.com/evalcrafter/EvalCrafter
 
+### On the Content Bias in Fréchet Video Distance
+
+- Paper: https://arxiv.org/abs/2404.12391
+- Code: https://github.com/songweige/content-debiased-fvd
 
 
 <font color=red size=5>持续更新~</font>
