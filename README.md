@@ -626,10 +626,21 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2311.16432
 - Code: https://github.com/yuanze-lin/Learnable_Regions
 
+### Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On
+
+- Paper: https://arxiv.org/abs/2404.01089
+- Code: https://github.com/Gal4way/TPD
+
 ### UniHuman: A Unified Model For Editing Human Images in the Wild
 
 - Paper: https://arxiv.org/abs/2312.14985
 - Code: https://github.com/NannanLi999/UniHuman
+
+### ZONE: Zero-Shot Instruction-Guided Local Editing
+
+- Paper: https://arxiv.org/abs/2312.16794
+- Code: https://github.com/lsl001006/ZONE
+
 
 <a name="3.视频生成"></a>
 
@@ -668,6 +679,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models
 
+### Grid Diffusion Models for Text-to-Video Generation
+
+- Paper: https://arxiv.org/abs/2404.00234
+- Code: https://github.com/taegyeong-lee/Grid-Diffusion-Models-for-Text-to-Video-Generation
+  
 ### Hierarchical Patch-wise Diffusion Models for High-Resolution Video Generation
 
 ### Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation
@@ -1199,6 +1215,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2312.04302
 - Code: https://github.com/dvlab-research/Prompt-Highlighter
 
+### PromptKD: Unsupervised Prompt Distillation for Vision-Language Models
+
+- Paper: https://arxiv.org/abs/2403.02781
+- Code: https://github.com/zhengli97/PromptKD
+
 ### Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models
 
 - Paper: https://arxiv.org/abs/2311.06783
@@ -1258,7 +1279,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 <a name="8.其他"></a>
 
-# 8.其他多任务(Others)
+# 8.其他任务(Others)
 
 ### AEROBLADE: Training-Free Detection of Latent Diffusion Images Using Autoencoder Reconstruction Error
 
@@ -1276,6 +1297,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Paper: https://arxiv.org/abs/2404.12391
 - Code: https://github.com/songweige/content-debiased-fvd
+
+### TexTile: A Differentiable Metric for Texture Tileability
+
+- Paper: https://arxiv.org/abs/2403.12961v1
+- Code: https://github.com/crp94/textile
 
 
 <font color=red size=5>持续更新~</font>
