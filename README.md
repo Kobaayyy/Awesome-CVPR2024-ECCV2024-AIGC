@@ -212,7 +212,12 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Paper: https://www.cs.jhu.edu/~alanlab/Pubs24/chen2024towards.pdf
 - Code: https://github.com/MrGiovanni/DiffTumor
-  
+
+### Generating Daylight-driven Architectural Design via Diffusion Models
+
+- Paper: https://arxiv.org/abs/2404.13353
+- Code: 
+
 ### Generative Unlearning for Any Identity
 
 - Paper: 
@@ -325,6 +330,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
   
 ### Personalized Residuals for Concept-Driven Text-to-Image Generation
 
+### Perturbing Attention Gives You More Bang for the Buck: Subtle Imaging Perturbations That Efficiently Fool Customized Diffusion Models
+
+- Paper: https://arxiv.org/abs/2404.15081
+- Code:
+  
 ### PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding  
 
 - Paper: https://arxiv.org/abs/2312.04461
@@ -631,6 +641,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2404.01089
 - Code: https://github.com/Gal4way/TPD
 
+### TiNO-Edit: Timestep and Noise Optimization for Robust Diffusion-Based Image Editing
+
+- Paper: https://arxiv.org/abs/2404.11120
+- Code: https://github.com/SherryXTChen/TiNO-Edit
+  
 ### UniHuman: A Unified Model For Editing Human Images in the Wild
 
 - Paper: https://arxiv.org/abs/2312.14985
@@ -690,6 +705,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### LAMP: Learn A Motion Pattern for Few-Shot Video Generation
 
+### Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis
+
+- Paper: https://arxiv.org/abs/2402.17364
+- Code: https://github.com/zhangzc21/DynTet
+  
 ### Lodge: A Coarse to Fine Diffusion Network for Long Dance Generation guided by the Characteristic Dance Primitives
 
 - Paper: https://arxiv.org/abs/2403.10518
@@ -740,9 +760,14 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2311.17590
 - Code: https://github.com/ZiqiaoPeng/SyncTalk
 
+### TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models
+
+- Paper: https://arxiv.org/abs/2311.17590
+- Code: 
+  
 ### Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
 
-- Paper: https://arxiv.org/abs/2212.11565
+- Paper: https://arxiv.org/abs/2404.16306
 - Code: https://github.com/showlab/Tune-A-Video
 
 ### VideoBooth: Diffusion-based Video Generation with Image Prompts
@@ -1120,11 +1145,21 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2403.18293
 - Code: https://github.com/kdiAAA/TDA
 
+### Exploring the Transferability of Visual Prompting for Multimodal Large Language Models
+
+- Paper: https://arxiv.org/abs/2404.11207
+- Code: https://github.com/zycheiheihei/transferable-visual-prompting
+  
 ### FairCLIP: Harnessing Fairness in Vision-Language Learning
 
 - Paper: https://arxiv.org/abs/2403.19949
 - Code: https://github.com/Harvard-Ophthalmology-AI-Lab/FairCLIP
-  
+
+### FairDeDup: Detecting and Mitigating Vision-Language Fairness Disparities in Semantic Dataset Deduplication
+
+- Paper: https://arxiv.org/abs/2404.16123
+- Code: 
+
 ### Generative Multimodal Models are In-Context Learners
 
 - Paper: https://arxiv.org/abs/2312.13286
