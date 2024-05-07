@@ -748,6 +748,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### SimDA: Simple Diffusion Adapter for Efficient Video Generation
 
+- Paper: https://arxiv.org/abs/2308.09710
+- Code: https://github.com/ChenHsing/SimDA
+  
 ### Simple but Effective Text-to-Video Generation with Grid Diffusion Models
 
 ### StyleCineGAN: Landscape Cinemagraph Generation using a Pre-trained StyleGAN
@@ -812,7 +815,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
   
 ### FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation
 
-- Paper: 
+- Paper: https://arxiv.org/abs/2403.12962
 - Code: https://github.com/williamyang1991/FRESCO/tree/main
   
 ### RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models
