@@ -220,7 +220,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Generative Unlearning for Any Identity
 
-- Paper: 
+- Paper: https://arxiv.org/abs/2405.09879
 - Code: https://github.com/JJuOn/GUIDE
 
 ### HanDiffuser: Text-to-Image Generation With Realistic Hand Appearances
@@ -280,6 +280,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### Learned representation-guided diffusion models for large-image generation
 
 - Paper: https://arxiv.org/abs/2312.07330
+- Code: https://github.com/cvlab-stonybrook/Large-Image-Diffusion
 
 ### Learning Continuous 3D Words for Text-to-Image Generation
 
@@ -350,7 +351,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2305.16223
 - Code: https://github.com/SHI-Labs/Prompt-Free-Diffusion
 
-### Taming Text-to-Image Diffusion for Accurate Prompt Following
+### Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following
 
 - Paper: https://arxiv.org/abs/2311.17002
 - Code: https://github.com/ali-vilab/Ranni
@@ -375,6 +376,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2401.09603
 - Code: https://github.com/google-research/google-research/tree/master/cmmd
 
+### Rethinking the Spatial Inconsistency in Classifier-Free Diffusion Guidance
+
+- Paper: https://arxiv.org/abs/2404.05384
+- Code: https://github.com/SmilesDZgk/S-CFG
+  
 ### Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation
 
 - Paper: https://arxiv.org/abs/2311.13602
@@ -586,6 +592,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2403.09632
 - Code: https://github.com/guoqincode/Focus-on-Your-Instruction
 
+### Image Sculpting: Precise Object Editing with 3D Geometry Control
+
+- Paper: https://arxiv.org/abs/2401.01702
+- Code: https://github.com/vision-x-nyu/image-sculpting
+  
 ### Inversion-Free Image Editing with Natural Language
 
 - Paper: hhttps://arxiv.org/abs/2312.04965
@@ -847,6 +858,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2311.16096
 - Code: https://github.com/lizhe00/AnimatableGaussians
 
+### A Unified Approach for Text- and Image-guided 4D Scene Generation
+
+- Paper: https://arxiv.org/abs/2311.16854
+- Code: https://github.com/NVlabs/dream-in-4d
+  
 ### BerfScene: Bev-conditioned Equivariant Radiance Fields for Infinite 3D Scene Generation
 
 - Paper: https://arxiv.org/abs/2312.02136
