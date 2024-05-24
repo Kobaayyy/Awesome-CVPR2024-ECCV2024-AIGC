@@ -328,7 +328,12 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Paper: https://arxiv.org/abs/2404.02883
 - Code:
-  
+
+### OpenBias: Open-set Bias Detection in Text-to-Image Generative Models
+
+- Paper: https://arxiv.org/abs/2404.07990
+- Code: https://github.com/Picsart-AI-Research/OpenBias
+
 ### Personalized Residuals for Concept-Driven Text-to-Image Generation
 
 ### Perturbing Attention Gives You More Bang for the Buck: Subtle Imaging Perturbations That Efficiently Fool Customized Diffusion Models
@@ -1068,6 +1073,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Paper: https://arxiv.org/abs/2309.16585
 - Code: https://github.com/gsgen3d/gsgen
+
+### The More You See in 2D, the More You Perceive in 3D
+
+- Paper: https://arxiv.org/abs/2404.03652
+- Code: https://github.com/sap3d/sap3d
 
 ### Tiger: Time-Varying Denoising Model for 3D Point Cloud Generation with Diffusion Process
 
