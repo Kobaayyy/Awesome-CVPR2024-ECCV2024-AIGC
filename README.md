@@ -692,6 +692,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2312.02813
 - Code: https://github.com/MCG-NJU/BIVDiff
 
+### ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis
+
+- Paper: https://arxiv.org/abs/2403.17936
+- Code: https://github.com/m-hamza-mughal/convofusion
+
 ### Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model
 
 - Paper: https://arxiv.org/abs/2404.01862
@@ -893,6 +898,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2403.13667
 - Code: https://github.com/sail-sg/Consistent3D
 
+### ConTex-Human: Free-View Rendering of Human from a Single Image with Texture-Consistent Synthesis
+
+- Paper: https://arxiv.org/abs/2311.17123
+- Code: https://github.com/gaoxiangjun/ConTex-Human
+  
 ### ControlRoom3D: Room Generation using Semantic Controls
 
 ### DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance
@@ -1059,6 +1069,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Single Mesh Diffusion Models with Field Latents for Texture Generation
 
+### SiTH: Single-view Textured Human Reconstruction with Image-Conditioned Diffusion
+
+- Paper: https://arxiv.org/abs/2311.15855
+- Code: https://github.com/SiTH-Diffusion/SiTH
+  
 ### SPAD : Spatially Aware Multiview Diffusers
 
 - Paper: https://arxiv.org/abs/2402.05235
@@ -1132,7 +1147,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### Anchor-based Robust Finetuning of Vision-Language Models
 
 - Paper: https://arxiv.org/abs/2404.06244
-- Code:
+- Code: https://github.com/LixDemon/ARF
   
 ### Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters
 
@@ -1243,6 +1258,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Paper: https://arxiv.org/abs/2403.07839
 - Code: 
+
+### Narrative Action Evaluation with Prompt-Guided Multimodal Interaction
+
+- Paper: https://arxiv.org/abs/2404.14471
+- Code: https://github.com/shiyi-zh0408/NAE_CVPR2024
 
 ### OneLLM: One Framework to Align All Modalities with Language
 
