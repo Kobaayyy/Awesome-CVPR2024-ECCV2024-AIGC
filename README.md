@@ -895,7 +895,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Consistent3D: Towards Consistent High-Fidelity Text-to-3D Generation with Deterministic Sampling Prior
 
-- Paper: https://arxiv.org/abs/2403.13667
+- Paper: https://arxiv.org/abs/2401.09050
 - Code: https://github.com/sail-sg/Consistent3D
 
 ### ConTex-Human: Free-View Rendering of Human from a Single Image with Texture-Consistent Synthesis
@@ -903,11 +903,14 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2311.17123
 - Code: https://github.com/gaoxiangjun/ConTex-Human
   
-### ControlRoom3D: Room Generation using Semantic Controls
+### ControlRoom3D: Room Generation using Semantic Proxy Rooms
+
+- Paper： https://arxiv.org/abs/2312.05208
+  
 
 ### DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance
 
-- Paper: https://arxiv.org/abs/2401.09050
+- Paper: https://arxiv.org/abs/2403.13667
 - Code: https://github.com/Carmenw1203/DanceCamera3D-Official
 
 ### DiffPortrait3D: Controllable Diffusion for Zero-Shot Portrait View Synthesis
@@ -932,7 +935,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Diffusion Time-step Curriculum for One Image to 3D Generation
 
-- Paper: https://arxiv.org/abs/2311.17024
+- Paper: https://paperswithcode.com/paper/diffusion-time-step-curriculum-for-one-image
 - Code: https://github.com/yxymessi/DTC123
 
 ### DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models
@@ -982,6 +985,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### HIG: Hierarchical Interlacement Graph Approach to Scene Graph Generation in Video Understanding
 
+- Paper: https://arxiv.org/abs/2312.03050
+
+
 ### Holodeck: Language Guided Generation of 3D Embodied AI Environments
 
 - Paper: https://arxiv.org/abs/2312.09067
@@ -989,7 +995,13 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation
 
+- Paper: https://arxiv.org/abs/2310.01406
+  
+
 ### Interactive3D: Create What You Want by Interactive 3D Generation
+
+- Paper: https://hub.baai.ac.cn/paper/494efc8d-f4ed-4ca4-8469-b882f9489f5e
+  
 
 ### InterHandGen: Two-Hand Interaction Generation via Cascaded Reverse Diffusio
 
@@ -1008,12 +1020,12 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
   
 ### MoMask: Generative Masked Modeling of 3D Human Motions
 
-- Paper: https://arxiv.org/abs/2402.05746
+- Paper: https://arxiv.org/abs/2312.00063
 - Code: https://github.com/EricGuo5513/momask-codes
 
 ### Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration
 
-- Paper: https://arxiv.org/abs/2312.00063
+- Paper: https://arxiv.org/abs/2402.05746
 - Code: https://github.com/yifanlu0227/ChatSim?tab=readme-ov-file
 
 ### EpiDiff: Enhancing Multi-View Synthesis via Localized Epipolar-Constrained Diffusion
@@ -1023,12 +1035,18 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### OED: Towards One-stage End-to-End Dynamic Scene Graph Generation
 
+- Paper: https://arxiv.org/abs/2405.16925
+  
+
 ### One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion
+
+- Paper: https://arxiv.org/abs/2311.07885
+- Code: https://github.com/SUDO-AI-3D/One2345plus
 
 ### Paint-it: Text-to-Texture Synthesis via Deep Convolutional Texture Map Optimization and Physically-Based Rendering
 
-- Paper: https://github.com/postech-ami/Paint-it
-- Code: https://arxiv.org/abs/2312.11360
+- Paper: https://arxiv.org/abs/2312.11360
+- Code: https://github.com/postech-ami/Paint-it
 
 ### PEGASUS: Personalized Generative 3D Avatars with Composable Attributes
 
@@ -1067,14 +1085,20 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### SIGNeRF: Scene Integrated Generation for Neural Radiance Fields
 
+- Paper: https://arxiv.org/abs/2401.01647
+- Code: https://github.com/cgtuebingen/SIGNeRF
+
 ### Single Mesh Diffusion Models with Field Latents for Texture Generation
+
+- Paper: https://arxiv.org/abs/2312.09250
+- Code: https://github.com/google-research/google-research/tree/master/mesh_diffusion
 
 ### SiTH: Single-view Textured Human Reconstruction with Image-Conditioned Diffusion
 
 - Paper: https://arxiv.org/abs/2311.15855
 - Code: https://github.com/SiTH-Diffusion/SiTH
-  
-### SPAD : Spatially Aware Multiview Diffusers
+
+### SPAD: Spatially Aware Multiview Diffusers
 
 - Paper: https://arxiv.org/abs/2402.05235
 - Code: https://github.com/yashkant/spad
@@ -1096,12 +1120,12 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Tiger: Time-Varying Denoising Model for 3D Point Cloud Generation with Diffusion Process
 
-- Paper: 
+- Paper: https://cvlab.cse.msu.edu/pdfs/Ren_Kim_Liu_Liu_TIGER_supp.pdf
 - Code: https://github.com/Zhiyuan-R/Tiger-Diffusion
   
 ### Towards Realistic Scene Generation with LiDAR Diffusion Models
 
-- Paper: 
+- Paper: https://arxiv.org/abs/2404.00815
 - Code: https://github.com/hancyran/LiDAR-Diffusion
 
 ### UDiFF: Generating Conditional Unsigned Distance Fields with Optimal Wavelet Diffusion
