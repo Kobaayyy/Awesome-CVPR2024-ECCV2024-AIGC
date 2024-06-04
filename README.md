@@ -143,6 +143,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://www.arxiv.org/abs/2403.04321
 - Code: https://github.com/LgQu/DPT-T2I
 
+### Don’t drop your samples! Coherence-aware training benefits Conditional diffusion
+
+- Paper: https://arxiv.org/abs/2405.20324
+- Code: https://github.com/nicolas-dufour/CAD
+
 ### Drag Your Noise: Interactive Point-based Editing via Diffusion Semantic Propagation
 
 - Paper: 
@@ -336,6 +341,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Personalized Residuals for Concept-Driven Text-to-Image Generation
 
+- Paper: https://arxiv.org/abs/2405.12978
+- Code:
+  
 ### Perturbing Attention Gives You More Bang for the Buck: Subtle Imaging Perturbations That Efficiently Fool Customized Diffusion Models
 
 - Paper: https://arxiv.org/abs/2404.15081
@@ -476,6 +484,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Paper: https://arxiv.org/abs/2312.03626
 - Code: https://github.com/mlpc-ucsd/TokenCompose
+
+### Towards Accurate Post-training Quantization for Diffusion Models
+
+- Paper: https://arxiv.org/abs/2305.18723
+- Code: https://github.com/ChangyuanWang17/APQ-DM
 
 ### Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation
 
@@ -1182,7 +1195,12 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Paper: https://arxiv.org/abs/2403.18447
 - Code: https://github.com/InhwanBae/LMTrajectory
-  
+
+### Can't make an Omelette without Breaking some Eggs: Plausible Action Anticipation using Large Video-Language Models
+
+- Paper: https://arxiv.org/abs/2405.20305
+- Code: 
+
 ### Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding
 
 - Paper: https://arxiv.org/abs/2311.08046
