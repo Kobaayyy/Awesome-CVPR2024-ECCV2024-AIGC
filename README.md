@@ -359,6 +359,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: 
 - Code: https://github.com/cszy98/PLACE
 
+### Plug-and-Play Diffusion Distillation
+
+- Paper: https://arxiv.org/abs/2406.01954
+- Code: 
+  
 ### Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models
 
 - Paper: https://arxiv.org/abs/2305.16223
@@ -515,6 +520,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2311.13231
 - Code: https://github.com/yk7333/d3po
 
+### U-VAP: User-specified Visual Appearance Personalization via Decoupled Self Augmentation
+
+- Paper: https://arxiv.org/abs/2403.20231
+- Code: https://github.com/ICTMCG/U-VAP
+
 ### ViewDiff: 3D-Consistent Image Generation with Text-To-Image Models
 
 - Paper: https://arxiv.org/abs/2403.01807
@@ -575,6 +585,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2312.07409
 - Code: https://github.com/Kevin-thu/DiffMorpher
 
+### Diffusion Handles: Enabling 3D Edits for Diffusion Models by Lifting Activations to 3D
+
+- Paper: https://arxiv.org/abs/2312.02190
+- Code: https://github.com/adobe-research/DiffusionHandles
+
 ### DiffusionLight: Light Probes for Free by Painting a Chrome Ball
 
 - Paper: https://arxiv.org/abs/2312.09168
@@ -605,6 +620,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2312.10113
 - Code: https://github.com/guoqincode/Focus-on-Your-Instruction
 
+### FreeDrag: Feature Dragging for Reliable Point-based Image Editing
+
+- Paper: https://arxiv.org/abs/2307.04684
+- Code: https://github.com/LPengYang/FreeDrag
+  
 ### Holo-Relighting: Controllable Volumetric Portrait Relighting from a Single Image
 
 - Paper: https://arxiv.org/abs/2403.09632
@@ -630,15 +650,15 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2303.17546
 - Code: https://github.com/YangChangHee/CVPR2024_Person-In-Place_RELEASE?tab=readme-ov-file
 
+### Puff-Net: Efficient Style Transfer with Pure Content and Style Feature Fusion Network
+
+- Paper: https://arxiv.org/abs/2405.19775
+- Code: 
+  
 ### PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models
 
 - Paper: https://arxiv.org/abs/2312.13964
 - Code: https://github.com/open-mmlab/PIA
-
-### FreeDrag: Feature Dragging for Reliable Point-based Image Editing
-
-- Paper: https://arxiv.org/abs/2307.04684
-- Code: https://github.com/LPengYang/FreeDrag
 
 ### RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization
 
@@ -722,6 +742,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### DisCo: Disentangled Control for Realistic Human Dance Generation
 
 - Paper: https://arxiv.org/abs/2307.00040
+- Code: https://github.com/Wangt-CN/DisCo
+
+### Faces that Speak: Jointly Synthesising Talking Face and Speech from Text
+
+- Paper: https://arxiv.org/abs/2405.10272
 - Code: https://github.com/Wangt-CN/DisCo
 
 ### FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Generation
@@ -885,7 +910,12 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Paper: https://arxiv.org/abs/2311.16854
 - Code: https://github.com/NVlabs/dream-in-4d
-  
+
+### BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation
+
+- Paper: https://arxiv.org/abs/2405.09546
+- Code: https://github.com/behavior-vision-suite/behavior-vision-suite.github.io
+
 ### BerfScene: Bev-conditioned Equivariant Radiance Fields for Infinite 3D Scene Generation
 
 - Paper: https://arxiv.org/abs/2312.02136
@@ -1246,6 +1276,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2404.16123
 - Code: 
 
+### FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models
+
+- Paper: https://arxiv.org/abs/2404.16123
+- Code:
+  
 ### Generative Multimodal Models are In-Context Learners
 
 - Paper: https://arxiv.org/abs/2312.13286
