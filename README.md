@@ -41,6 +41,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### Adversarial Text to Continuous Image Generation
 
 - Paper: https://openreview.net/forum?id=9X3UZJSGIg9
+- Code: 
 
 ### Amodal Completion via Progressive Mixed Context Diffusion
 
@@ -50,7 +51,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder
 
 - Paper: https://arxiv.org/abs/2403.10255
-- Code: 
+- Code: https://github.com/zhenshij/arbitrary-scale-diffusion
   
 ### Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion
 
@@ -61,6 +62,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Paper: https://arxiv.org/abs/2403.18551
 - Code: https://github.com/Monalissaa/DisenDiff
+
+### Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models
+
+- Paper: https://arxiv.org/abs/2405.05252
+- Code:
   
 ### CapHuman: Capture Your Moments in Parallel Universes
 
@@ -89,6 +95,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Condition-Aware Neural Network for Controlled Image Generation
 
+- Paper: https://arxiv.org/abs/2404.01143v1
+- Code: 
+  
 ### CosmicMan: A Text-to-Image Foundation Model for Humans
 
 - Paper: https://arxiv.org/abs/2404.01294
@@ -96,15 +105,18 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Countering Personalized Text-to-Image Generation with Influence Watermarks
 
-### Cross Initialization for Personalized Text-to-Image Generation
+- Paper: 
+- Code:
+  
+### Cross Initialization for Face Personalization of Text-to-Image Models  
 
 - Paper: https://arxiv.org/abs/2312.15905
-- Code: 
+- Code: https://github.com/lyuPang/CrossInitialization
 
 ### Customization Assistant for Text-to-image Generation
 
 - Paper: https://arxiv.org/abs/2312.03045
-
+- Code:
 
 ### DeepCache: Accelerating Diffusion Models for Free
 
@@ -124,10 +136,13 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### DiffAgent: Fast and Accurate Text-to-Image API Selection with Large Language Model
 
 - Paper: https://arxiv.org/abs/2404.01342
-- Code:https://github.com/OpenGVLab/DiffAgent
+- Code: https://github.com/OpenGVLab/DiffAgent
 
-### Diffusion-driven GAN Inversion for Multi-Modal Facial Image Generation
+### Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation
 
+- Paper: https://arxiv.org/abs/2405.04356v1
+- Code: 
+  
 ### DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models
 
 - Paper: https://arxiv.org/abs/2402.19481
@@ -150,7 +165,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Drag Your Noise: Interactive Point-based Editing via Diffusion Semantic Propagation
 
-- Paper: 
+- Paper: https://arxiv.org/abs/2404.01050
 - Code: https://github.com/haofengl/DragNoise
   
 ### DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization
@@ -185,7 +200,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Enabling Multi-Concept Fusion in Text-to-Image Models
 
-- Paper: 
+- Paper: https://arxiv.org/abs/2404.03913v1
 - Code: 
 
 ### Exact Fusion via Feature Distribution Matching for Few-shot Image Generation
@@ -458,6 +473,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2312.16476
 - Code: https://github.com/ximinng/SVGDreamer
 
+### SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation
+
+- Paper: https://arxiv.org/abs/2312.05239
+- Code: https://github.com/VinAIResearch/SwiftBrush
+
 ### Tailored Visions: Enhancing Text-to-Image Generation with Personalized Prompt Rewriting
 
 - Paper: https://arxiv.org/abs/2310.08129
@@ -549,6 +569,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 - Paper: https://arxiv.org/abs/2304.06140
 - Code: https://github.com/inbarhub/DDPM_inversion
+
+### Choose What You Need: Disentangled Representation Learning for Scene Text Recognition, Removal and Editing
+
+- Paper: https://arxiv.org/abs/2405.04377
+- Code: 
 
 ### Content-Style Decoupling for Unsupervised Makeup Transfer without Generating Pseudo Ground Truth
 
@@ -744,6 +769,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2307.00040
 - Code: https://github.com/Wangt-CN/DisCo
 
+### FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio
+
+- Paper: https://arxiv.org/abs/2403.01901
+- Code: 
+  
 ### Faces that Speak: Jointly Synthesising Talking Face and Speech from Text
 
 - Paper: https://arxiv.org/abs/2405.10272
