@@ -225,7 +225,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
   
 ### FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition
 
-- Paper: 
+- Paper: https://arxiv.org/abs/2405.13870
 - Code: https://github.com/aim-uofa/FreeCustom
   
 ### Generalizable Tumor Synthesis
@@ -236,7 +236,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### Generating Daylight-driven Architectural Design via Diffusion Models
 
 - Paper: https://arxiv.org/abs/2404.13353
-- Code: 
+- Code: https://github.com/unlimitedli/DDADesign
 
 ### Generative Unlearning for Any Identity
 
@@ -246,6 +246,8 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### HanDiffuser: Text-to-Image Generation With Realistic Hand Appearances
 
 - Paper: https://arxiv.org/abs/2403.01693
+- Code: https://github.com/JJuOn/GUIDE
+
 
 ### High-fidelity Person-centric Subject-to-Image Synthesis
 
@@ -254,13 +256,14 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### InitNO: Boosting Text-to-Image Diffusion Models via Initial Noise Optimization
 
-- Paper: 
+- Paper: https://arxiv.org/abs/2404.04650
 - Code: https://github.com/xiefan-guo/initno
 
 ### InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning
 
 - Paper: https://arxiv.org/abs/2304.03411
-
+- Code:
+  
 ### InstanceDiffusion: Instance-level Control for Image Generation
 
 - Paper: https://arxiv.org/abs/2402.03290
@@ -284,6 +287,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### Intriguing Properties of Diffusion Models: An Empirical Study of the Natural Attack Capability in Text-to-Image Generative Models
 
 - Paper: https://arxiv.org/abs/2308.15692
+- Code: 
 
 ### Inversion-Free Image Editing with Natural Language
 
@@ -292,9 +296,12 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation
 
+- Paper: 
+- Code: 
+
 ### LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion
 
-- Paper: 
+- Paper: https://arxiv.org/abs/2404.00292
 - Code: https://github.com/PanchengZhao/LAKE-RED
 
 ### Learned representation-guided diffusion models for large-image generation
@@ -314,9 +321,12 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Learning Multi-dimensional Human Preference for Text-to-Image Generation
 
+- Paper: https://arxiv.org/abs/2311.15841
+- Code:
+
 ### LeftRefill: Filling Right Canvas based on Left Reference through Generalized Text-to-Image Diffusion Model
 
-- Paper: 
+- Paper: https://arxiv.org/abs/2305.11577
 - Code: https://github.com/ewrfcas/LeftRefill
 
 ### MACE: Mass Concept Erasure in Diffusion Models
@@ -327,10 +337,12 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### MarkovGen: Structured Prediction for Efficient Text-to-Image Generation
 
 - Paper: https://arxiv.org/abs/2308.10997
+- Code: 
 
 ### MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant
 
 - Paper: https://arxiv.org/abs/2403.04290
+- Code: 
 
 ### MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis
 
@@ -344,6 +356,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### MULAN: A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation
 
+- Paper: https://arxiv.org/abs/2404.02790
+- Code: https://huggingface.co/datasets/mulan-dataset/v1.0
+  
 ### On the Scalability of Diffusion-based Text-to-Image Generation
 
 - Paper: https://arxiv.org/abs/2404.02883
@@ -371,7 +386,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### PLACE: Adaptive Layout-Semantic Fusion for Semantic Image Synthesis
 
-- Paper: 
+- Paper: https://arxiv.org/abs/2403.01852
 - Code: https://github.com/cszy98/PLACE
 
 ### Plug-and-Play Diffusion Distillation
@@ -396,7 +411,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Relation Rectification in Diffusion Model
 
-- Paper: 
+- Paper: https://arxiv.org/abs/2403.20249
 - Code: https://github.com/WUyinwei-hah/RRNet
 
 ### Residual Denoising Diffusion Models
@@ -422,6 +437,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### Rich Human Feedback for Text-to-Image Generation
 
 - Paper: https://arxiv.org/abs/2312.10240
+- Code: 
 
 ### SCoFT: Self-Contrastive Fine-Tuning for Equitable Image Generation
 
@@ -490,6 +506,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Taming Stable Diffusion for Text to 360∘ Panorama Image Generation
 
+- Paper: https://arxiv.org/abs/2404.07949
+- Code: https://github.com/chengzhag/PanFusion
+  
 ### TextCraftor: Your Text Encoder Can be Image Quality Controller
 
 - Paper: https://arxiv.org/abs/2403.18978
@@ -498,7 +517,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation
 
 - Paper: https://arxiv.org/abs/2403.06247
-
+- Code: https://github.com/MingyuLee82/TGI_AD_v1
 
 ### TFMQ-DM: Temporal Feature Maintenance Quantization for Diffusion Models
 
@@ -518,17 +537,22 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation
 
 - Paper: https://arxiv.org/abs/2403.05239
+- Code: 
 
 ### Towards Memorization-Free Diffusion Models
 
 - Paper: https://arxiv.org/abs/2404.00922
-- Code: 
+- Code: https://github.com/chenchen-usyd/AMG
 
 ### Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning
 
+- Paper: 
+- Code:
+  
 ### UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs
 
 - Paper: https://arxiv.org/abs/2311.09257
+- Code:
 
 ### UniGS: Unified Representation for Image Generation and Segmentation
 
