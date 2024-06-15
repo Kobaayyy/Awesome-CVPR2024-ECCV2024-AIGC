@@ -12,7 +12,9 @@ A Collection of Papers and Codes for CVPR2024 AIGC
 
 CVPR2024官网：[https://cvpr.thecvf.com/Conferences/2024](https://cvpr.thecvf.com/Conferences/2024)
 
-CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
+CVPR接收论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
+
+CVPR完整论文库：https://openaccess.thecvf.com/CVPR2024
 
 开会时间：2024年6月17日-6月21日
 
@@ -105,7 +107,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Countering Personalized Text-to-Image Generation with Influence Watermarks
 
-- Paper: 
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Countering_Personalized_Text-to-Image_Generation_with_Influence_Watermarks_CVPR_2024_paper.html
 - Code:
   
 ### Cross Initialization for Face Personalization of Text-to-Image Models  
@@ -205,7 +207,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Exact Fusion via Feature Distribution Matching for Few-shot Image Generation
 
-- Paper: 
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Zhou_Exact_Fusion_via_Feature_Distribution_Matching_for_Few-shot_Image_Generation_CVPR_2024_paper.html
 - Code: 
 
 ### FaceChain-SuDe: Building Derived Class to Inherit Category Attributes for One-shot Subject-Driven Generation
@@ -296,7 +298,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation
 
-- Paper: 
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Zeng_JeDi_Joint-Image_Diffusion_Models_for_Finetuning-Free_Personalized_Text-to-Image_Generation_CVPR_2024_paper.html
 - Code: 
 
 ### LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion
@@ -546,7 +548,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Training Diffusion Models Towards Diverse Image Generation with Reinforcement Learning
 
-- Paper: 
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Miao_Training_Diffusion_Models_Towards_Diverse_Image_Generation_with_Reinforcement_Learning_CVPR_2024_paper.html
 - Code:
   
 ### UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs
@@ -601,7 +603,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Content-Style Decoupling for Unsupervised Makeup Transfer without Generating Pseudo Ground Truth
 
-- Paper: 
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Sun_Content-Style_Decoupling_for_Unsupervised_Makeup_Transfer_without_Generating_Pseudo_Ground_CVPR_2024_paper.html
 - Code: https://github.com/Snowfallingplum/CSD-MT
 
 ### Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing
@@ -626,7 +628,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
   
 ### DiffAM: Diffusion-based Adversarial Makeup Transfer for Facial Privacy Protection
 
-- Paper: 
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Sun_DiffAM_Diffusion-based_Adversarial_Makeup_Transfer_for_Facial_Privacy_Protection_CVPR_2024_paper.html
 - Code: https://github.com/HansSunY/DiffAM
 
 ### DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing
@@ -784,10 +786,11 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2404.01862
 - Code: https://github.com/thuhcsi/S2G-MDDiffusion
   
-### Delving Deep into Diffusion Transformers for Image and Video Generation
-
 ### DiffPerformer: Iterative Learning of Consistent Latent Guidance for Diffusion-based Human Video Generation
 
+- Paper: 
+- Code: 
+  
 ### DisCo: Disentangled Control for Realistic Human Dance Generation
 
 - Paper: https://arxiv.org/abs/2307.00040
@@ -803,10 +806,21 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2405.10272
 - Code: https://github.com/Wangt-CN/DisCo
 
-### FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Generation
+### FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis
 
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Liang_FlowVid_Taming_Imperfect_Optical_Flows_for_Consistent_Video-to-Video_Synthesis_CVPR_2024_paper.html
+- Code: 
+  
 ### Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models
 
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Cai_Generative_Rendering_Controllable_4D-Guided_Video_Generation_with_2D_Diffusion_Models_CVPR_2024_paper.html
+- Code: 
+
+### GenTron: Diffusion Transformers for Image and Video Generation
+
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Chen_GenTron_Diffusion_Transformers_for_Image_and_Video_Generation_CVPR_2024_paper.html
+- Code:
+  
 ### Grid Diffusion Models for Text-to-Video Generation
 
 - Paper: https://arxiv.org/abs/2404.00234
@@ -814,10 +828,19 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
   
 ### Hierarchical Patch-wise Diffusion Models for High-Resolution Video Generation
 
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Skorokhodov_Hierarchical_Patch_Diffusion_Models_for_High-Resolution_Video_Generation_CVPR_2024_paper.html
+- Code: 
+  
 ### Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation
 
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Qing_Hierarchical_Spatio-temporal_Decoupling_for_Text-to-Video_Generation_CVPR_2024_paper.html
+- Code: 
+  
 ### LAMP: Learn A Motion Pattern for Few-Shot Video Generation
 
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Wu_LAMP_Learn_A_Motion_Pattern_for_Few-Shot_Video_Generation_CVPR_2024_paper.html
+- Code: https://github.com/RQ-Wu/LAMP
+  
 ### Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis
 
 - Paper: https://arxiv.org/abs/2402.17364
@@ -845,8 +868,14 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Make Pixels Dance: High-Dynamic Video Generation
 
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Zeng_Make_Pixels_Dance_High-Dynamic_Video_Generation_CVPR_2024_paper.html
+- Code: 
+  
 ### MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation
 
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Wang_MicroCinema_A_Divide-and-Conquer_Approach_for_Text-to-Video_Generation_CVPR_2024_paper.html
+- Code: 
+  
 ### Panacea: Panoramic and Controllable Video Generation for Autonomous Driving
 
 - Paper: https://arxiv.org/abs/2311.16813
@@ -854,6 +883,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### PEEKABOO: Interactive Video Generation via Masked-Diffusion
 
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Jain_PEEKABOO_Interactive_Video_Generation_via_Masked-Diffusion_CVPR_2024_paper.html
+- Code: 
+  
 ### Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners
 
 - Paper: https://arxiv.org/abs/2308.13712
@@ -864,8 +896,6 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 - Paper: https://arxiv.org/abs/2308.09710
 - Code: https://github.com/ChenHsing/SimDA
   
-### Simple but Effective Text-to-Video Generation with Grid Diffusion Models
-
 ### StyleCineGAN: Landscape Cinemagraph Generation using a Pre-trained StyleGAN
 
 - Paper: https://arxiv.org/abs/2403.14186
@@ -913,7 +943,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### CAMEL: Causal Motion Enhancement tailored for lifting text-driven video editing
 
-- Paper: 
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_CAMEL_CAusal_Motion_Enhancement_Tailored_for_Lifting_Text-driven_Video_Editing_CVPR_2024_paper.html
 - Code: https://github.com/zhangguiwei610/CAMEL
 
 ### CCEdit: Creative and Controllable Video Editing via Diffusion Models
@@ -1003,7 +1033,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### ControlRoom3D: Room Generation using Semantic Proxy Rooms
 
 - Paper： https://arxiv.org/abs/2312.05208
-  
+- Code: 
 
 ### DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance
 
@@ -1083,7 +1113,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### HIG: Hierarchical Interlacement Graph Approach to Scene Graph Generation in Video Understanding
 
 - Paper: https://arxiv.org/abs/2312.03050
-
+- Code: 
 
 ### Holodeck: Language Guided Generation of 3D Embodied AI Environments
 
@@ -1093,12 +1123,12 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation
 
 - Paper: https://arxiv.org/abs/2310.01406
-  
+- Code: 
 
 ### Interactive3D: Create What You Want by Interactive 3D Generation
 
 - Paper: https://hub.baai.ac.cn/paper/494efc8d-f4ed-4ca4-8469-b882f9489f5e
-  
+- Code:  
 
 ### InterHandGen: Two-Hand Interaction Generation via Cascaded Reverse Diffusio
 
@@ -1133,7 +1163,7 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 ### OED: Towards One-stage End-to-End Dynamic Scene Graph Generation
 
 - Paper: https://arxiv.org/abs/2405.16925
-  
+- Code: 
 
 ### One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion
 
@@ -1503,6 +1533,9 @@ CVPR完整论文列表：https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers
 
 ### Diff-BGM: A Diffusion Model for Video Background Music Generation
 
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Li_Diff-BGM_A_Diffusion_Model_for_Video_Background_Music_Generation_CVPR_2024_paper.html
+- Code: https://github.com/sizhelee/Diff-BGM
+  
 ### EvalCrafter: Benchmarking and Evaluating Large Video Generation Models
 
 - Paper: https://arxiv.org/abs/2310.11440
