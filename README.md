@@ -323,7 +323,7 @@ CVPR完整论文库：https://openaccess.thecvf.com/CVPR2024
 
 ### Learning Multi-dimensional Human Preference for Text-to-Image Generation
 
-- Paper: https://arxiv.org/abs/2311.15841
+- Paper: https://arxiv.org/abs/2405.14705
 - Code:
 
 ### LeftRefill: Filling Right Canvas based on Left Reference through Generalized Text-to-Image Diffusion Model
