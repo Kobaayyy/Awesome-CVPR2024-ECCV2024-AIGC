@@ -1410,6 +1410,11 @@ CVPR完整论文库：https://openaccess.thecvf.com/CVPR2024
 - Paper: https://arxiv.org/abs/2311.16922
 - Code: https://github.com/DAMO-NLP-SG/VCD
 
+### MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI
+
+- Paper: https://arxiv.org/abs/2311.16502
+- Code: https://github.com/MMMU-Benchmark/MMMU
+
 ### MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training
 
 - Paper: https://arxiv.org/abs/2311.17049
