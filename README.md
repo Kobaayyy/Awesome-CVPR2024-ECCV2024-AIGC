@@ -40,9 +40,14 @@ CVPR完整论文库：https://openaccess.thecvf.com/CVPR2024
 - Paper: https://arxiv.org/abs/2402.17376
 - Code: https://github.com/scxue/DM-NonUniform
 
+### Adversarial Score Distillation: When score distillation meets GAN
+
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Wei_Adversarial_Score_Distillation_When_score_distillation_meets_GAN_CVPR_2024_paper.html
+- Code: https://github.com/2y7c3/ASD
+  
 ### Adversarial Text to Continuous Image Generation
 
-- Paper: https://openreview.net/forum?id=9X3UZJSGIg9
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Haydarov_Adversarial_Text_to_Continuous_Image_Generation_CVPR_2024_paper.html
 - Code: 
 
 ### Amodal Completion via Progressive Mixed Context Diffusion
@@ -160,6 +165,11 @@ CVPR完整论文库：https://openaccess.thecvf.com/CVPR2024
 - Paper: https://www.arxiv.org/abs/2403.04321
 - Code: https://github.com/LgQu/DPT-T2I
 
+### Domain Gap Embeddings for Generative Dataset Augmentation
+
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Domain_Gap_Embeddings_for_Generative_Dataset_Augmentation_CVPR_2024_paper.html
+- Code: https://github.com/humansensinglab/DoGE
+  
 ### Don’t drop your samples! Coherence-aware training benefits Conditional diffusion
 
 - Paper: https://arxiv.org/abs/2405.20324
@@ -229,6 +239,11 @@ CVPR完整论文库：https://openaccess.thecvf.com/CVPR2024
 
 - Paper: https://arxiv.org/abs/2405.13870
 - Code: https://github.com/aim-uofa/FreeCustom
+
+### FreeU: Free Lunch in Diffusion U-Net
+
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Si_FreeU_Free_Lunch_in_Diffusion_U-Net_CVPR_2024_paper.html
+- Code: https://github.com/ChenyangSi/FreeU
   
 ### Generalizable Tumor Synthesis
 
@@ -323,7 +338,7 @@ CVPR完整论文库：https://openaccess.thecvf.com/CVPR2024
 
 ### Learning Multi-dimensional Human Preference for Text-to-Image Generation
 
-- Paper: https://arxiv.org/abs/2311.15841
+- Paper: https://arxiv.org/abs/2405.14705
 - Code:
 
 ### LeftRefill: Filling Right Canvas based on Left Reference through Generalized Text-to-Image Diffusion Model
@@ -444,7 +459,7 @@ CVPR完整论文库：https://openaccess.thecvf.com/CVPR2024
 ### SCoFT: Self-Contrastive Fine-Tuning for Equitable Image Generation
 
 - Paper: https://arxiv.org/abs/2401.08053
-- Code: 
+- Code: https://github.com/cmubig/SCoFT
 
 ### Self-correcting LLM-controlled Diffusion Models
 
@@ -586,6 +601,11 @@ CVPR完整论文库：https://openaccess.thecvf.com/CVPR2024
 - Paper: https://arxiv.org/abs/2312.02238
 - Code: https://github.com/showlab/X-Adapter
 
+### Your Student is Better Than Expected: Adaptive Teacher-Student Collaboration for Text-Conditional Diffusion Models
+
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Starodubcev_Your_Student_is_Better_Than_Expected_Adaptive_Teacher-Student_Collaboration_for_CVPR_2024_paper.html
+- Code: https://github.com/yandex-research/adaptive-diffusion
+  
 
 <a name="2.图像编辑"></a>
 
@@ -716,6 +736,11 @@ CVPR完整论文库：https://openaccess.thecvf.com/CVPR2024
 - Paper: https://arxiv.org/abs/2403.00483
 - Code: 
 
+### SCEdit: Efficient and Controllable Image Diffusion Generation via Skip Connection Editing
+
+- Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Jiang_SCEdit_Efficient_and_Controllable_Image_Diffusion_Generation_via_Skip_Connection_CVPR_2024_paper.html
+- Code: https://github.com/ali-vilab/SCEdit
+  
 ### SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models
 
 - Paper: https://arxiv.org/abs/2312.06739
@@ -909,7 +934,7 @@ CVPR完整论文库：https://openaccess.thecvf.com/CVPR2024
 ### TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models
 
 - Paper: https://arxiv.org/abs/2311.17590
-- Code: 
+- Code: https://github.com/merlresearch/TI2V-Zero
   
 ### Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
 
@@ -1410,6 +1435,11 @@ CVPR完整论文库：https://openaccess.thecvf.com/CVPR2024
 - Paper: https://arxiv.org/abs/2311.16922
 - Code: https://github.com/DAMO-NLP-SG/VCD
 
+### MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI
+
+- Paper: https://arxiv.org/abs/2311.16502
+- Code: https://github.com/MMMU-Benchmark/MMMU
+  
 ### MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training
 
 - Paper: https://arxiv.org/abs/2311.17049
